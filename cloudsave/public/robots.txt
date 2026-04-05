@@ -1,0 +1,65 @@
+# CloudSave Robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /share/*/edit
+Disallow: /referral/*/settings
+
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /admin/
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /admin/
+
+User-agent: Slurp
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /admin/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /admin/
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://cloudsave.org/sitemap.xml
+Host: https://cloudsave.org

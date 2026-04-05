@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "BY4DK7N35V.org.cloudsave.app",
+        "paths": [
+          "/share/*",
+          "/c/*",
+          "/r/*",
+          "/referral/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "BY4DK7N35V.org.cloudsave.app"
+    ]
+  }
+}

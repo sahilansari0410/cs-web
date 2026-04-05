@@ -1,0 +1,232 @@
+@import "tailwindcss";
+
+/* Design System - CloudSave */
+:root {
+  /* Light mode */
+  --background: #fafafa;
+  --foreground: #0a0a0f;
+  --primary: #007BFF;
+  --primary-foreground: #ffffff;
+  --secondary: #0056B3;
+  --secondary-foreground: #ffffff;
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+  --accent: #339CFF;
+  --accent-foreground: #ffffff;
+  --card: #ffffff;
+  --card-foreground: #0a0a0f;
+  --border: #e2e8f0;
+  --ring: #007BFF;
+  --success: #22c55e;
+  --destructive: #ef4444;
+}
+
+.dark {
+  --background: #0a0a0f;
+  --foreground: #f8fafc;
+  --primary: #007BFF;
+  --primary-foreground: #ffffff;
+  --secondary: #0056B3;
+  --secondary-foreground: #ffffff;
+  --muted: #1e1e2e;
+  --muted-foreground: #94a3b8;
+  --accent: #339CFF;
+  --accent-foreground: #ffffff;
+  --card: #141420;
+  --card-foreground: #f8fafc;
+  --border: #27273a;
+  --ring: #007BFF;
+  --success: #22c55e;
+  --destructive: #ef4444;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --color-success: var(--success);
+  --color-destructive: var(--destructive);
+  --font-sans: var(--font-inter);
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+/* Prevent long URLs and text from overflowing containers */
+li, p {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+/* Selection color */
+::selection {
+  background-color: var(--primary);
+  color: var(--primary-foreground);
+}
+
+/* Gradient text utility */
+.gradient-text {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 50%, var(--accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Gradient link utility - for clickable internal links */
+.gradient-link {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-decoration: none;
+  font-weight: 500;
+  transition: opacity 0.2s ease;
+}
+
+.gradient-link:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+  text-decoration-color: var(--primary);
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dark .glass {
+  background: rgba(10, 10, 15, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Animated background gradient */
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animated-gradient {
+  background: linear-gradient(-45deg, #007BFF, #0056B3, #339CFF, #007BFF);
+  background-size: 400% 400%;
+  animation: gradient-shift 15s ease infinite;
+}
+
+/* Glow effects */
+.glow-primary {
+  box-shadow: 0 0 40px rgba(0, 123, 255, 0.3);
+}
+
+.glow-secondary {
+  box-shadow: 0 0 40px rgba(0, 86, 179, 0.3);
+}
+
+/* Grid pattern background */
+.grid-pattern {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+/* Smooth section transitions */
+section {
+  position: relative;
+}
+
+/* Section blend overlays - eliminates hard color boundaries */
+.section-blend-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  background: linear-gradient(to bottom, var(--background) 0%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.section-blend-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  background: linear-gradient(to top, var(--background) 0%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* For sections with muted backgrounds */
+.section-blend-top-muted {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 150px;
+  background: linear-gradient(to bottom, var(--background) 0%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.section-blend-bottom-muted {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 150px;
+  background: linear-gradient(to top, var(--background) 0%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--muted);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted-foreground);
+}

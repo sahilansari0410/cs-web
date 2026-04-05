@@ -1,0 +1,15 @@
+# CloudSave Security Policy
+# If you have found a security vulnerability, please report it responsibly.
+
+Contact: mailto:security@cloudsave.org
+Contact: https://cloudsave.org/security
+Expires: 2027-12-31T23:59:59.000Z
+Encryption: https://cloudsave.org/.well-known/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://cloudsave.org/.well-known/security.txt
+Policy: https://cloudsave.org/security-policy
+Hiring: https://cloudsave.org/careers
+
+# We take security seriously at CloudSave.
+# Your files are protected with zero-knowledge encryption.
+# We appreciate responsible disclosure of any vulnerabilities.

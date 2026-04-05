@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.cloudsave.app",
+      "sha256_cert_fingerprints": [
+        "7B:B7:F4:B1:29:A8:1A:2F:AE:06:5B:67:54:B1:7A:47:D2:2B:92:87:76:01:B5:E7:9F:CA:F0:58:AA:40:3A:9C",
+        "85:85:D8:1D:F1:9A:6E:CE:A9:DF:6A:48:08:4E:63:10:76:B3:30:D4:56:0D:12:C6:EE:9F:79:70:64:AB:04:12"
+      ]
+    }
+  }
+]

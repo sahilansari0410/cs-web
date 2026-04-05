@@ -1,0 +1,106 @@
+{
+  "name": "CloudSave - Unlimited Private Cloud Storage",
+  "short_name": "CloudSave",
+  "description": "Truly unlimited photo and video cloud storage with zero-knowledge encryption. No limits, no compression, complete privacy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#007BFF",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["productivity", "utilities", "cloud", "storage"],
+  "icons": [
+    {
+      "src": "/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/screenshot-1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "CloudSave Dashboard"
+    },
+    {
+      "src": "/screenshots/screenshot-2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "File Management"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Upload Files",
+      "short_name": "Upload",
+      "description": "Upload new files to CloudSave",
+      "url": "/upload",
+      "icons": [{ "src": "/icons/upload-icon.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "My Files",
+      "short_name": "Files",
+      "description": "View your files",
+      "url": "/files",
+      "icons": [{ "src": "/icons/files-icon.png", "sizes": "192x192" }]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=org.cloudsave.app",
+      "id": "org.cloudsave.app"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/app/cloudsave/id6757381326",
+      "id": "6757381326"
+    }
+  ],
+  "prefer_related_applications": false
+}

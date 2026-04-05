@@ -21,8 +21,8 @@ interface DeepLinkRedirectProps {
 
 export function DeepLinkRedirect({
   path,
-  title = "Opening CloudSave...",
-  description = "You're being redirected to the CloudSave app.",
+  title = "Opening BLVCK...",
+  description = "You're being redirected to the BLVCK app.",
 }: DeepLinkRedirectProps) {
   const [status, setStatus] = useState<"loading" | "redirecting" | "fallback">("loading");
   const [platform, setPlatform] = useState<"ios" | "android" | "desktop">("desktop");
@@ -179,12 +179,12 @@ export function DeepLinkRedirect({
             </div>
             <div className="space-y-2">
               <h1 className="text-2xl font-bold text-foreground">
-                Get CloudSave App
+                Get BLVCK App
               </h1>
               <p className="text-muted-foreground">
                 {isMobileDevice()
-                  ? "The CloudSave app is required to view this content. Download it for free!"
-                  : "Download the CloudSave app on your mobile device to access this content."}
+                  ? "The BLVCK app is required to view this content. Download it for free!"
+                  : "Download the BLVCK app on your mobile device to access this content."}
               </p>
             </div>
 
@@ -254,7 +254,7 @@ export function DeepLinkRedirect({
           transition={{ delay: 0.5 }}
           className="mt-12 text-xs text-muted-foreground"
         >
-          CloudSave - Secure Cloud Storage
+          BLVCK - Secure Cloud Storage
         </motion.p>
       </motion.div>
     </div>

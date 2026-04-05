@@ -1,22 +1,22 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cloudsave.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://blvck.in";
 
 // HowTo Schema for monetization
 const howToSchema = {
   "@context": "https://schema.org",
   "@type": "HowTo",
-  name: "How to Start Earning with CloudSave Creator Program",
+  name: "How to Start Earning with BLVCK Creator Program",
   description:
-    "Learn how to monetize your content on CloudSave and earn 100% of your revenue through Cloud Channels.",
+    "Learn how to monetize your content on BLVCK and earn 100% of your revenue through Cloud Channels.",
   totalTime: "P30D",
   step: [
     {
       "@type": "HowToStep",
       position: 1,
       name: "Create Your Channel",
-      text: "Sign up for CloudSave and create your own Cloud Channel. Add a name, description, and profile picture.",
+      text: "Sign up for BLVCK and create your own Cloud Channel. Add a name, description, and profile picture.",
     },
     {
       "@type": "HowToStep",
@@ -46,11 +46,11 @@ const howToSchema = {
 };
 
 export const metadata: Metadata = {
-  title: "Creator Monetization Program - Earn 100% Revenue | CloudSave",
+  title: "Creator Monetization Program - Earn 100% Revenue | BLVCK",
   description:
-    "Turn your content into income with CloudSave's creator-first monetization program. Keep 100% of your earnings with Cloud Channels. No platform fees. Multiple payout options including UPI, bank transfer, and crypto.",
+    "Turn your content into income with BLVCK's creator-first monetization program. Keep 100% of your earnings with Cloud Channels. No platform fees. Multiple payout options including UPI, bank transfer, and crypto.",
   keywords: [
-    "CloudSave monetization",
+    "BLVCK monetization",
     "creator program",
     "earn money cloud storage",
     "content monetization",
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     "digital creator platform",
   ],
   openGraph: {
-    title: "Earn 100% Revenue with CloudSave Creator Program",
+    title: "Earn 100% Revenue with BLVCK Creator Program",
     description:
       "Turn your content into income. Create a Channel, build your audience, and keep every penny you earn.",
     url: `${siteUrl}/monetization`,
@@ -73,15 +73,15 @@ export const metadata: Metadata = {
         url: `${siteUrl}/og-monetization.png`,
         width: 1200,
         height: 630,
-        alt: "CloudSave Creator Monetization - 100% Revenue Share",
+        alt: "BLVCK Creator Monetization - 100% Revenue Share",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "CloudSave Creator Program - 100% Revenue Share",
+    title: "BLVCK Creator Program - 100% Revenue Share",
     description:
-      "Keep every penny you earn. Unlike other platforms, CloudSave lets creators keep 100% of monetization revenue.",
+      "Keep every penny you earn. Unlike other platforms, BLVCK lets creators keep 100% of monetization revenue.",
     images: [`${siteUrl}/og-monetization.png`],
   },
   alternates: {

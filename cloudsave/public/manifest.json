@@ -1,6 +1,6 @@
 {
-  "name": "CloudSave - Unlimited Private Cloud Storage",
-  "short_name": "CloudSave",
+  "name": "BLVCK - Unlimited Private Cloud Storage",
+  "short_name": "BLVCK",
   "description": "Truly unlimited photo and video cloud storage with zero-knowledge encryption. No limits, no compression, complete privacy.",
   "start_url": "/",
   "display": "standalone",
@@ -65,7 +65,7 @@
       "src": "/screenshots/screenshot-1.png",
       "sizes": "1280x720",
       "type": "image/png",
-      "label": "CloudSave Dashboard"
+      "label": "BLVCK Dashboard"
     },
     {
       "src": "/screenshots/screenshot-2.png",
@@ -78,7 +78,7 @@
     {
       "name": "Upload Files",
       "short_name": "Upload",
-      "description": "Upload new files to CloudSave",
+      "description": "Upload new files to BLVCK",
       "url": "/upload",
       "icons": [{ "src": "/icons/upload-icon.png", "sizes": "192x192" }]
     },

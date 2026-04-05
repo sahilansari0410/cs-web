@@ -1,25 +1,25 @@
 import type { Metadata } from "next";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cloudsave.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://blvck.in";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - CloudSave",
+  title: "Privacy Policy - BLVCK",
   description:
-    "CloudSave Privacy Policy: Learn how we protect your data with zero-knowledge encryption. Your files are encrypted on your device - we cannot see, read, or access your private files. Your privacy is our priority.",
+    "BLVCK Privacy Policy: Learn how we protect your data with zero-knowledge encryption. Your files are encrypted on your device - we cannot see, read, or access your private files. Your privacy is our priority.",
   keywords: [
-    "CloudSave privacy policy",
+    "BLVCK privacy policy",
     "cloud storage privacy",
     "zero-knowledge encryption policy",
     "data protection policy",
     "GDPR compliance",
     "privacy rights",
     "data collection policy",
-    "CloudSave data security",
+    "BLVCK data security",
   ],
   openGraph: {
-    title: "Privacy Policy - CloudSave",
+    title: "Privacy Policy - BLVCK",
     description:
-      "Your privacy is fundamental to everything we do. Learn how CloudSave protects your data with zero-knowledge encryption.",
+      "Your privacy is fundamental to everything we do. Learn how BLVCK protects your data with zero-knowledge encryption.",
     url: `${siteUrl}/privacy-policy`,
     type: "article",
     images: [
@@ -27,13 +27,13 @@ export const metadata: Metadata = {
         url: `${siteUrl}/og-privacy.png`,
         width: 1200,
         height: 630,
-        alt: "CloudSave Privacy Policy",
+        alt: "BLVCK Privacy Policy",
       },
     ],
   },
   twitter: {
     card: "summary",
-    title: "Privacy Policy - CloudSave",
+    title: "Privacy Policy - BLVCK",
     description:
       "Your files are encrypted on your device. We cannot see, read, or access your private files.",
     images: [`${siteUrl}/og-privacy.png`],

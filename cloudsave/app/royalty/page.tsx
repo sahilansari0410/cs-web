@@ -205,7 +205,7 @@ export default function RoyaltyPage() {
               for Every Referral
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-6 sm:mb-8">
-              Refer users to CloudSave and earn up to 25% royalty every month for life.
+              Refer users to BLVCK and earn up to 25% royalty every month for life.
               No expiry. No cap. No short commitments – just lifetime passive income.
             </p>
             <div className="flex flex-wrap justify-center gap-2 sm:gap-4">
@@ -261,7 +261,7 @@ export default function RoyaltyPage() {
                 </div>
                 <h3 className="text-xl font-bold text-foreground mb-2">Get Your Referral Link</h3>
                 <p className="text-sm text-muted-foreground">
-                  Open the CloudSave app and grab your unique referral link and referral code
+                  Open the BLVCK app and grab your unique referral link and referral code
                   from the Referral section. Share it anywhere.
                 </p>
               </CardContent>
@@ -293,7 +293,7 @@ export default function RoyaltyPage() {
                 </div>
                 <h3 className="text-xl font-bold text-foreground mb-2">They Go Premium</h3>
                 <p className="text-sm text-muted-foreground">
-                  When your referred user subscribes to CloudSave Premium at $49.99/month,
+                  When your referred user subscribes to BLVCK Premium at $49.99/month,
                   your royalty kicks in automatically.
                 </p>
               </CardContent>
@@ -309,7 +309,7 @@ export default function RoyaltyPage() {
                 </div>
                 <h3 className="text-xl font-bold text-foreground mb-2">Earn for Life</h3>
                 <p className="text-sm text-muted-foreground">
-                  Royalty is instantly credited to your Creator Payout page in CloudSave
+                  Royalty is instantly credited to your Creator Payout page in BLVCK
                   on every premium purchase. For life, forever.
                 </p>
               </CardContent>
@@ -345,7 +345,7 @@ export default function RoyaltyPage() {
                     How Referral Mapping Works
                   </h3>
                   <p className="text-muted-foreground mb-4">
-                    Share your unique referral link or referral code from the CloudSave app. When a new user
+                    Share your unique referral link or referral code from the BLVCK app. When a new user
                     signs up and enters your referral code during registration, they are permanently mapped
                     under your account. This mapping is for life – it never expires and cannot be changed.
                   </p>
@@ -356,7 +356,7 @@ export default function RoyaltyPage() {
                     </div>
                     <div className="flex items-start gap-2.5 p-3 rounded-lg bg-primary/10">
                       <CheckCircle2 className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
-                      <p className="text-sm text-foreground">Link found in the CloudSave app Referral section</p>
+                      <p className="text-sm text-foreground">Link found in the BLVCK app Referral section</p>
                     </div>
                   </div>
                 </div>
@@ -411,7 +411,7 @@ export default function RoyaltyPage() {
                   </div>
                 </div>
                 <p className="text-muted-foreground mb-4">
-                  Due to CloudSave&apos;s zero-knowledge encryption and privacy commitment, you cannot
+                  Due to BLVCK&apos;s zero-knowledge encryption and privacy commitment, you cannot
                   track or view who your referred users are. You will not see names, emails, or any
                   personal information of the people you refer. This is by design – we protect
                   everyone&apos;s privacy equally.
@@ -725,7 +725,7 @@ export default function RoyaltyPage() {
                     Earn From Their Channel Success Too
                   </h3>
                   <p className="text-muted-foreground mb-4">
-                    When your referred user creates a channel on CloudSave and starts earning
+                    When your referred user creates a channel on BLVCK and starts earning
                     through monetization (ads, subscriptions, tips, or any other revenue stream),
                     you automatically receive up to <span className="text-orange-500 font-semibold">5% of their total channel revenue</span> –
                     on top of your existing premium subscription royalty. This is a straight, flat 5% with no tiers or conditions.
@@ -756,7 +756,7 @@ export default function RoyaltyPage() {
                     <div className="w-7 h-7 rounded-full bg-amber-500/20 flex items-center justify-center flex-shrink-0 mt-0.5">
                       <span className="text-xs font-bold text-amber-500">1</span>
                     </div>
-                    <p className="text-sm text-muted-foreground">Your referred user creates a channel on CloudSave</p>
+                    <p className="text-sm text-muted-foreground">Your referred user creates a channel on BLVCK</p>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-7 h-7 rounded-full bg-amber-500/20 flex items-center justify-center flex-shrink-0 mt-0.5">
@@ -975,10 +975,10 @@ export default function RoyaltyPage() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground mb-3 sm:mb-4">
-              CloudSave vs Others
+              BLVCK vs Others
             </h2>
             <p className="text-muted-foreground max-w-xl mx-auto">
-              See why CloudSave&apos;s Royalty Program stands out
+              See why BLVCK&apos;s Royalty Program stands out
             </p>
           </motion.div>
 
@@ -996,7 +996,7 @@ export default function RoyaltyPage() {
                       <tr className="border-b border-border">
                         <th className="text-left p-4 text-muted-foreground font-medium">Feature</th>
                         <th className="p-4 text-center">
-                          <span className="gradient-text font-bold">CloudSave</span>
+                          <span className="gradient-text font-bold">BLVCK</span>
                         </th>
                         <th className="p-4 text-center text-muted-foreground font-medium">Others</th>
                       </tr>
@@ -1055,7 +1055,7 @@ export default function RoyaltyPage() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {[
                     {
-                      title: "CloudSave Premium Account",
+                      title: "BLVCK Premium Account",
                       desc: "You must be a premium subscriber to earn royalty — free users are not eligible",
                     },
                     {
@@ -1116,7 +1116,7 @@ export default function RoyaltyPage() {
                   Start Earning Lifetime Royalty Today
                 </h2>
                 <p className="text-sm sm:text-base text-muted-foreground max-w-xl mx-auto mb-6 sm:mb-8">
-                  Join the CloudSave Royalty Program and turn every referral into a
+                  Join the BLVCK Royalty Program and turn every referral into a
                   permanent source of passive income. No commitments, no expiry – just earnings.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">

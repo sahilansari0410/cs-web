@@ -12,7 +12,7 @@ const inter = Inter({
 });
 
 // Base URL for the site - used for canonical URLs and OG images
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cloudsave.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://blvck.in";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -27,11 +27,11 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   // Basic Meta Tags
   title: {
-    default: "CloudSave - Unlimited Private Cloud Storage | Zero-Knowledge Encryption",
-    template: "%s | CloudSave",
+    default: "BLVCK - Unlimited Private Cloud Storage | Zero-Knowledge Encryption",
+    template: "%s | BLVCK",
   },
   description:
-    "CloudSave offers truly unlimited photo and video cloud storage with zero-knowledge encryption. No storage limits, no compression, no surveillance. Your files stay private - even we can't see them. Start free with 1TB storage.",
+    "BLVCK offers truly unlimited photo and video cloud storage with zero-knowledge encryption. No storage limits, no compression, no surveillance. Your files stay private - even we can't see them. Start free with 1TB storage.",
 
   // Extended Keywords for SEO
   keywords: [
@@ -59,17 +59,17 @@ export const metadata: Metadata = {
 
   // Author and Creator Information
   authors: [
-    { name: "CloudSave", url: siteUrl },
+    { name: "BLVCK", url: siteUrl },
     { name: "AXSA Technologies Private Limited" },
   ],
   creator: "AXSA Technologies Private Limited",
-  publisher: "CloudSave",
+  publisher: "BLVCK",
 
   // Generator
   generator: "Next.js",
 
   // Application Name
-  applicationName: "CloudSave",
+  applicationName: "BLVCK",
 
   // Referrer Policy
   referrer: "origin-when-cross-origin",
@@ -108,8 +108,8 @@ export const metadata: Metadata = {
     locale: "en_US",
     alternateLocale: ["en_GB", "en_IN"],
     url: siteUrl,
-    siteName: "CloudSave",
-    title: "CloudSave - Unlimited Private Cloud Storage with Zero-Knowledge Encryption",
+    siteName: "BLVCK",
+    title: "BLVCK - Unlimited Private Cloud Storage with Zero-Knowledge Encryption",
     description:
       "Truly unlimited photo and video storage with military-grade encryption. No storage caps, no compression, complete privacy. Your files, truly yours.",
     images: [
@@ -117,7 +117,7 @@ export const metadata: Metadata = {
         url: `${siteUrl}/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "CloudSave - Unlimited Private Cloud Storage",
+        alt: "BLVCK - Unlimited Private Cloud Storage",
         type: "image/png",
       },
     ],
@@ -128,7 +128,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@cloudsaveapp",
     creator: "@cloudsaveapp",
-    title: "CloudSave - Unlimited Private Cloud Storage",
+    title: "BLVCK - Unlimited Private Cloud Storage",
     description:
       "Truly unlimited photo & video storage with zero-knowledge encryption. No limits. No compression. Complete privacy.",
     images: [`${siteUrl}/og-image.png`],
@@ -170,11 +170,11 @@ export const metadata: Metadata = {
     ios: {
       url: "cloudsave://",
       app_store_id: "6757381326",
-      app_name: "CloudSave",
+      app_name: "BLVCK",
     },
     android: {
       package: "org.cloudsave.app",
-      app_name: "CloudSave",
+      app_name: "BLVCK",
       url: "cloudsave://",
     },
     web: {
@@ -199,21 +199,21 @@ export const metadata: Metadata = {
     "mobile-web-app-capable": "yes",
     "apple-mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "black-translucent",
-    "apple-mobile-web-app-title": "CloudSave",
+    "apple-mobile-web-app-title": "BLVCK",
     "msapplication-TileColor": "#007BFF",
     "msapplication-config": "/browserconfig.xml",
     "theme-color": "#007BFF",
     "color-scheme": "light dark",
 
     // Additional SEO Tags
-    "og:email": "support@cloudsave.org",
+    "og:email": "support@blvck.in",
 
     // DC Tags (Dublin Core)
-    "DC.title": "CloudSave - Unlimited Private Cloud Storage",
+    "DC.title": "BLVCK - Unlimited Private Cloud Storage",
     "DC.creator": "AXSA Technologies Private Limited",
     "DC.subject": "Cloud Storage, Privacy, Encryption, File Backup",
     "DC.description": "Unlimited private cloud storage with zero-knowledge encryption",
-    "DC.publisher": "CloudSave",
+    "DC.publisher": "BLVCK",
     "DC.type": "Service",
     "DC.format": "text/html",
     "DC.language": "en",

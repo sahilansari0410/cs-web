@@ -1,25 +1,25 @@
 import type { Metadata } from "next";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cloudsave.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://blvck.in";
 
 export const metadata: Metadata = {
-  title: "Terms of Service - CloudSave",
+  title: "Terms of Service - BLVCK",
   description:
-    "CloudSave Terms of Service: Read the terms and conditions for using CloudSave cloud storage service. Includes information about account usage, billing, acceptable use policy, and more.",
+    "BLVCK Terms of Service: Read the terms and conditions for using BLVCK cloud storage service. Includes information about account usage, billing, acceptable use policy, and more.",
   keywords: [
-    "CloudSave terms of service",
-    "CloudSave terms",
+    "BLVCK terms of service",
+    "BLVCK terms",
     "cloud storage terms",
     "user agreement",
     "acceptable use policy",
-    "CloudSave billing terms",
-    "CloudSave refund policy",
-    "CloudSave legal",
+    "BLVCK billing terms",
+    "BLVCK refund policy",
+    "BLVCK legal",
   ],
   openGraph: {
-    title: "Terms of Service - CloudSave",
+    title: "Terms of Service - BLVCK",
     description:
-      "Please read these terms carefully before using CloudSave. By using our service, you agree to these terms.",
+      "Please read these terms carefully before using BLVCK. By using our service, you agree to these terms.",
     url: `${siteUrl}/terms`,
     type: "article",
     images: [
@@ -27,15 +27,15 @@ export const metadata: Metadata = {
         url: `${siteUrl}/og-terms.png`,
         width: 1200,
         height: 630,
-        alt: "CloudSave Terms of Service",
+        alt: "BLVCK Terms of Service",
       },
     ],
   },
   twitter: {
     card: "summary",
-    title: "Terms of Service - CloudSave",
+    title: "Terms of Service - BLVCK",
     description:
-      "CloudSave terms and conditions for cloud storage service usage.",
+      "BLVCK terms and conditions for cloud storage service usage.",
     images: [`${siteUrl}/og-terms.png`],
   },
   alternates: {

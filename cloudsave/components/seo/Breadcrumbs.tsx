@@ -14,7 +14,7 @@ interface BreadcrumbsProps {
   className?: string;
 }
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cloudsave.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://blvck.in";
 
 export function Breadcrumbs({ items, className = "" }: BreadcrumbsProps) {
   // Generate JSON-LD schema

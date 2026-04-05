@@ -1,4 +1,4 @@
-# CloudSave Robots.txt
+# BLVCK Robots.txt
 
 User-agent: *
 Allow: /
@@ -61,5 +61,5 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsave.org/sitemap.xml
-Host: https://cloudsave.org
+Sitemap: https://blvck.in/sitemap.xml
+Host: https://blvck.in

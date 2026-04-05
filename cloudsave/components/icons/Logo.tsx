@@ -43,8 +43,8 @@ export function Logo({ className, showText = true, size = "md" }: LogoProps) {
       </svg>
       {showText && (
         <span className={cn("font-bold tracking-tight leading-none", text)}>
-          <span className="text-foreground">Cloud</span>
-          <span style={{ color: "#007BFF" }}>Save</span>
+          <span className="text-foreground">BLV</span>
+          <span style={{ color: "#007BFF" }}>CK</span>
         </span>
       )}
     </motion.div>

@@ -137,7 +137,7 @@ export default function CareersPage() {
       icon: Smartphone,
       color: "bg-green-500/10 text-green-500 border-green-500/20",
       responsibilities: [
-        "Develop and maintain the CloudSave Android application",
+        "Develop and maintain the BLVCK Android application",
         "Implement new features and optimize existing functionality",
         "Collaborate with designers to create intuitive user experiences",
         "Write clean, maintainable, and well-tested code",
@@ -162,7 +162,7 @@ export default function CareersPage() {
       icon: Smartphone,
       color: "bg-primary/10 text-primary border-primary/20",
       responsibilities: [
-        "Develop and maintain the CloudSave iOS application",
+        "Develop and maintain the BLVCK iOS application",
         "Build new features using Swift and SwiftUI",
         "Ensure app performance and responsiveness",
         "Collaborate with cross-functional teams",
@@ -337,7 +337,7 @@ export default function CareersPage() {
       location: "Remote",
       type: "Full-time",
       experience: "1+ years",
-      description: "Deliver exceptional support experiences and help users get the most out of CloudSave.",
+      description: "Deliver exceptional support experiences and help users get the most out of BLVCK.",
       icon: Headphones,
       color: "bg-sky-500/10 text-sky-500 border-sky-500/20",
       responsibilities: [
@@ -414,8 +414,8 @@ export default function CareersPage() {
     } else {
       try {
         const url = new URL(formData.resumeUrl);
-        if (!url.hostname.endsWith("cloudsave.org")) {
-          errors.resumeUrl = "Resume must be hosted on cloudsave.org domain";
+        if (!url.hostname.endsWith("blvck.in")) {
+          errors.resumeUrl = "Resume must be hosted on blvck.in domain";
         }
       } catch {
         errors.resumeUrl = "Please enter a valid URL";
@@ -467,12 +467,12 @@ Resume URL: ${formData.resumeUrl}
 ${formData.coverLetter}
 
 ---
-This application was submitted via the CloudSave Careers page.
+This application was submitted via the BLVCK Careers page.
 `
     );
 
     // Open mailto link
-    const mailtoLink = `mailto:support@cloudsave.org?subject=${subject}&body=${body}`;
+    const mailtoLink = `mailto:support@blvck.in?subject=${subject}&body=${body}`;
     window.open(mailtoLink, "_blank");
 
     // Short delay to allow email client to open
@@ -560,13 +560,13 @@ This application was submitted via the CloudSave Careers page.
                     <div className="w-10 h-10 rounded-xl bg-primary/20 flex items-center justify-center">
                       <Heart className="w-5 h-5 text-primary" />
                     </div>
-                    <Badge variant="primary">Why CloudSave?</Badge>
+                    <Badge variant="primary">Why BLVCK?</Badge>
                   </div>
                   <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
                     Build Something Meaningful
                   </h2>
                   <p className="text-muted-foreground mb-4">
-                    At CloudSave, you&apos;ll work on problems that matter. We&apos;re not just
+                    At BLVCK, you&apos;ll work on problems that matter. We&apos;re not just
                     building another cloud storage—we&apos;re creating a privacy-first platform
                     that gives users true ownership of their data.
                   </p>
@@ -688,10 +688,10 @@ This application was submitted via the CloudSave Careers page.
                 </h3>
                 <p className="text-muted-foreground mb-6 max-w-lg mx-auto">
                   We&apos;re always looking for talented people. Send us your resume and tell us
-                  how you can contribute to CloudSave.
+                  how you can contribute to BLVCK.
                 </p>
                 <Button variant="primary" size="md">
-                  <a href="mailto:careers@cloudsave.org" className="flex items-center gap-2">
+                  <a href="mailto:careers@blvck.in" className="flex items-center gap-2">
                     <Mail className="w-4 h-4" />
                     Send Your Resume
                   </a>
@@ -899,7 +899,7 @@ This application was submitted via the CloudSave Careers page.
                               name="resumeUrl"
                               value={formData.resumeUrl}
                               onChange={handleInputChange}
-                              placeholder="https://cloudsave.org/your-resume.pdf"
+                              placeholder="https://blvck.in/your-resume.pdf"
                               className={`w-full pl-10 pr-4 py-2.5 rounded-lg border ${
                                 formErrors.resumeUrl ? "border-destructive" : "border-border"
                               } bg-background text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary`}
@@ -912,7 +912,7 @@ This application was submitted via the CloudSave Careers page.
                             </p>
                           ) : (
                             <p className="mt-1 text-xs text-muted-foreground">
-                              Upload your resume to CloudSave and paste the share link here. Domain must be cloudsave.org
+                              Upload your resume to BLVCK and paste the share link here. Domain must be blvck.in
                             </p>
                           )}
                         </div>

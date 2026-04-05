@@ -58,7 +58,7 @@ export default function MonetizationPage() {
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
               Turn your content into income. Create a Channel, build your audience,
-              and earn 100% of your revenue with CloudSave&apos;s creator-first monetization program.
+              and earn 100% of your revenue with BLVCK&apos;s creator-first monetization program.
             </p>
           </motion.div>
         </div>
@@ -92,7 +92,7 @@ export default function MonetizationPage() {
                   </h2>
                   <p className="text-lg text-muted-foreground max-w-md">
                     Keep every penny you earn. Unlike other platforms that take 30-45%,
-                    CloudSave lets you keep 100% of your monetization revenue.
+                    BLVCK lets you keep 100% of your monetization revenue.
                   </p>
                   <div className="flex gap-4 mt-6">
                     <div className="text-center">
@@ -363,7 +363,7 @@ export default function MonetizationPage() {
                 </h2>
                 <p className="text-muted-foreground max-w-xl mx-auto mb-6">
                   Join thousands of creators who are building their audience and earning
-                  100% of their revenue on CloudSave.
+                  100% of their revenue on BLVCK.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link

@@ -1,21 +1,21 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cloudsave.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://blvck.in";
 
 // JobPosting Schema
 const jobPostingSchema = {
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  title: "Multiple Positions at CloudSave",
+  title: "Multiple Positions at BLVCK",
   description:
-    "Join CloudSave and help build the future of private cloud storage. We're looking for talented engineers, designers, and more.",
+    "Join BLVCK and help build the future of private cloud storage. We're looking for talented engineers, designers, and more.",
   datePosted: "2026-01-01",
   validThrough: "2026-12-31",
   employmentType: "FULL_TIME",
   hiringOrganization: {
     "@type": "Organization",
-    name: "CloudSave",
+    name: "BLVCK",
     sameAs: siteUrl,
     logo: `${siteUrl}/logo.svg`,
   },
@@ -47,12 +47,12 @@ const jobPostingSchema = {
 };
 
 export const metadata: Metadata = {
-  title: "Careers at CloudSave - Join Our Remote-First Team",
+  title: "Careers at BLVCK - Join Our Remote-First Team",
   description:
-    "Join CloudSave and help build the future of private cloud storage. We're a remote-first company looking for passionate engineers, designers, and privacy advocates. Competitive salary, flexible hours, and unlimited PTO.",
+    "Join BLVCK and help build the future of private cloud storage. We're a remote-first company looking for passionate engineers, designers, and privacy advocates. Competitive salary, flexible hours, and unlimited PTO.",
   keywords: [
-    "CloudSave careers",
-    "CloudSave jobs",
+    "BLVCK careers",
+    "BLVCK jobs",
     "cloud storage jobs",
     "remote developer jobs",
     "privacy tech jobs",
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     "software engineer jobs",
   ],
   openGraph: {
-    title: "Join CloudSave - Build the Future of Private Cloud Storage",
+    title: "Join BLVCK - Build the Future of Private Cloud Storage",
     description:
       "We're looking for talented individuals who share our passion for privacy and innovation. Remote-first, flexible hours, competitive benefits.",
     url: `${siteUrl}/careers`,
@@ -73,13 +73,13 @@ export const metadata: Metadata = {
         url: `${siteUrl}/og-careers.png`,
         width: 1200,
         height: 630,
-        alt: "Careers at CloudSave",
+        alt: "Careers at BLVCK",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Careers at CloudSave - Join Our Team",
+    title: "Careers at BLVCK - Join Our Team",
     description:
       "Build the future of cloud storage with us. Remote-first, competitive salary, and a mission you can believe in.",
     images: [`${siteUrl}/og-careers.png`],

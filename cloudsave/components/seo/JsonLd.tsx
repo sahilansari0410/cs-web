@@ -1,6 +1,6 @@
 import Script from "next/script";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://cloudsave.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://blvck.in";
 
 // Correct App Store URLs
 const APP_STORE_IOS = "https://apps.apple.com/app/cloudsave/id6757381326";
@@ -11,8 +11,8 @@ const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "@id": `${siteUrl}/#organization`,
-  name: "CloudSave",
-  alternateName: ["CloudSave App", "AXSA Technologies"],
+  name: "BLVCK",
+  alternateName: ["BLVCK App", "AXSA Technologies"],
   url: siteUrl,
   logo: {
     "@type": "ImageObject",
@@ -22,7 +22,7 @@ const organizationSchema = {
   },
   image: `${siteUrl}/og-image.png`,
   description:
-    "CloudSave provides unlimited private cloud storage with zero-knowledge encryption. Your files stay completely private - even we can't see them.",
+    "BLVCK provides unlimited private cloud storage with zero-knowledge encryption. Your files stay completely private - even we can't see them.",
   foundingDate: "2025",
   founder: {
     "@type": "Organization",
@@ -38,7 +38,7 @@ const organizationSchema = {
     {
       "@type": "ContactPoint",
       contactType: "customer support",
-      email: "support@cloudsave.org",
+      email: "support@blvck.in",
       availableLanguage: ["English", "Hindi"],
     },
   ],
@@ -66,8 +66,8 @@ const websiteSchema = {
   "@type": "WebSite",
   "@id": `${siteUrl}/#website`,
   url: siteUrl,
-  name: "CloudSave",
-  alternateName: "CloudSave - Unlimited Private Cloud Storage",
+  name: "BLVCK",
+  alternateName: "BLVCK - Unlimited Private Cloud Storage",
   description:
     "Truly unlimited photo and video cloud storage with zero-knowledge encryption.",
   publisher: {
@@ -81,7 +81,7 @@ const softwareApplicationSchema = {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
   "@id": `${siteUrl}/#application`,
-  name: "CloudSave",
+  name: "BLVCK",
   applicationCategory: "UtilitiesApplication",
   operatingSystem: ["iOS 15.0 or later", "Android 8.0 and up"],
   offers: {
@@ -118,7 +118,7 @@ const serviceSchema = {
   "@type": "Service",
   "@id": `${siteUrl}/#service`,
   serviceType: "Cloud Storage Service",
-  name: "CloudSave Cloud Storage",
+  name: "BLVCK Cloud Storage",
   description:
     "Unlimited private cloud storage with zero-knowledge encryption. Store photos, videos, and files securely.",
   provider: {
@@ -130,7 +130,7 @@ const serviceSchema = {
   },
   hasOfferCatalog: {
     "@type": "OfferCatalog",
-    name: "CloudSave Plans",
+    name: "BLVCK Plans",
     itemListElement: [
       {
         "@type": "Offer",
@@ -172,11 +172,11 @@ const brandSchema = {
   "@context": "https://schema.org",
   "@type": "Brand",
   "@id": `${siteUrl}/#brand`,
-  name: "CloudSave",
+  name: "BLVCK",
   logo: `${siteUrl}/logo.svg`,
   slogan: "Your files, truly yours",
   description:
-    "CloudSave is a privacy-first cloud storage platform with zero-knowledge encryption.",
+    "BLVCK is a privacy-first cloud storage platform with zero-knowledge encryption.",
   url: siteUrl,
 };
 

@@ -66,7 +66,7 @@ export function FinalCTA() {
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          Join thousands who&apos;ve switched to CloudSave. Your files deserve
+          Join thousands who&apos;ve switched to BLVCK. Your files deserve
           better than limits and surveillance.
         </motion.p>
 

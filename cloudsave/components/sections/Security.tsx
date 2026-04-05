@@ -48,7 +48,7 @@ const encryptionSteps = [
   {
     icon: EyeOff,
     title: "Zero Knowledge",
-    description: "Even CloudSave cannot access or view your files.",
+    description: "Even BLVCK cannot access or view your files.",
     detail: "True zero-knowledge architecture",
     color: "text-primary",
     bgColor: "bg-primary/10",
@@ -145,7 +145,7 @@ export function Security() {
           <div className="inline-flex items-center gap-3 px-6 py-4 rounded-2xl bg-card border border-border shadow-lg">
             <EyeOff className="w-6 h-6 text-primary" />
             <span className="text-lg font-medium">
-              Even CloudSave cannot access your data
+              Even BLVCK cannot access your data
             </span>
           </div>
         </motion.div>

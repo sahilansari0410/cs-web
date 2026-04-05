@@ -6,7 +6,7 @@ export async function onRequest(context) {
   const html = generateDeepLinkHTML({
     path: `/c/${id}`,
     title: "Opening channel...",
-    description: "You're being redirected to view this channel in the CloudSave app.",
+    description: "You're being redirected to view this channel in the BLVCK app.",
   });
 
   return new Response(html, {

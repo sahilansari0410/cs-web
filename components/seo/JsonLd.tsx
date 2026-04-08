@@ -12,7 +12,7 @@ const organizationSchema = {
   "@type": "Organization",
   "@id": `${siteUrl}/#organization`,
   name: "BLVCK",
-  alternateName: ["BLVCK App", "AXSA Technologies"],
+  alternateName: ["BLVCK App", "AXSA INNOVATIONS"],
   url: siteUrl,
   logo: {
     "@type": "ImageObject",
@@ -26,11 +26,13 @@ const organizationSchema = {
   foundingDate: "2025",
   founder: {
     "@type": "Organization",
-    name: "AXSA Technologies Private Limited",
+    name: "AXSA INNOVATIONS LLP",
   },
   address: {
     "@type": "PostalAddress",
-    addressLocality: "Navi Mumbai",
+    streetAddress: "SS-1/501 2ND FLR, SECTOR-2 NR MSEB OFFICE",
+    addressLocality: "Thane",
+    postalCode: "400709",
     addressRegion: "Maharashtra",
     addressCountry: "IN",
   },
@@ -49,11 +51,13 @@ const organizationSchema = {
   ],
   parentOrganization: {
     "@type": "Corporation",
-    name: "AXSA Technologies Private Limited",
-    legalName: "AXSA Technologies Private Limited",
+    name: "AXSA INNOVATIONS LLP",
+    legalName: "AXSA INNOVATIONS LLP",
     address: {
       "@type": "PostalAddress",
-      addressLocality: "Navi Mumbai",
+      streetAddress: "SS-1/501 2ND FLR, SECTOR-2 NR MSEB OFFICE",
+      addressLocality: "Thane",
+      postalCode: "400709",
       addressRegion: "Maharashtra",
       addressCountry: "IN",
     },

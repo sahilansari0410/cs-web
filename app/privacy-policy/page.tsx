@@ -182,7 +182,7 @@ export default function PrivacyPolicy() {
                 </h2>
                 <div className="text-muted-foreground space-y-4">
                   <p>
-                    This Privacy Policy (&quot;Policy&quot;) describes how AXSA Technologies Private Limited, operating as &quot;BLVCK&quot; (&quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), collects, uses, processes, shares, and protects your personal information when you use our services.
+                    This Privacy Policy (&quot;Policy&quot;) describes how AXSA INNOVATIONS LLP, operating as &quot;BLVCK&quot; (&quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), collects, uses, processes, shares, and protects your personal information when you use our services.
                   </p>
                   <p>This Policy applies to:</p>
                   <ul className="list-disc pl-6 space-y-1">
@@ -213,7 +213,7 @@ export default function PrivacyPolicy() {
                   <ul className="space-y-3">
                     <li><strong className="text-foreground">&quot;Personal Data&quot; or &quot;Personal Information&quot;</strong> means any information relating to an identified or identifiable natural person, including but not limited to name, email address, device identifiers, and usage data.</li>
                     <li><strong className="text-foreground">&quot;Processing&quot;</strong> means any operation performed on Personal Data, including collection, storage, use, disclosure, or deletion.</li>
-                    <li><strong className="text-foreground">&quot;Data Controller&quot;</strong> means the entity that determines the purposes and means of processing Personal Data. AXSA Technologies Private Limited is the Data Controller for information collected through our Services.</li>
+                    <li><strong className="text-foreground">&quot;Data Controller&quot;</strong> means the entity that determines the purposes and means of processing Personal Data. AXSA INNOVATIONS LLP is the Data Controller for information collected through our Services.</li>
                     <li><strong className="text-foreground">&quot;Data Processor&quot;</strong> means an entity that processes Personal Data on behalf of the Data Controller.</li>
                     <li><strong className="text-foreground">&quot;Data Subject&quot;</strong> means the individual to whom Personal Data relates.</li>
                     <li><strong className="text-foreground">&quot;Zero-Knowledge Encryption&quot;</strong> means an encryption method where the service provider does not have access to the encryption keys and cannot decrypt user data.</li>
@@ -1097,7 +1097,8 @@ export default function PrivacyPolicy() {
                   <div className="p-4 rounded-xl bg-muted/50">
                     <h3 className="font-semibold text-foreground mb-2">General Inquiries</h3>
                     <p className="font-medium text-foreground">BLVCK Privacy Team</p>
-                    <p>AXSA Technologies Private Limited</p>
+                    <p>AXSA INNOVATIONS LLP</p>
+                    <p>SS-1/501 2ND FLR, SECTOR-2 NR MSEB OFFICE, Thane, 400709, Maharashtra, India</p>
                     <div className="mt-3">
                       <p>Email: privacy@blvck.in</p>
                       <p>General Support: support@blvck.in</p>
@@ -1133,7 +1134,8 @@ export default function PrivacyPolicy() {
                     <h3 className="font-semibold text-foreground">18.1 Addendum for European Economic Area Users</h3>
                     <div className="mt-2 p-3 rounded-lg bg-muted/50">
                       <p><strong className="text-foreground">Data Controller:</strong></p>
-                      <p>AXSA Technologies Private Limited</p>
+                      <p>AXSA INNOVATIONS LLP</p>
+                      <p>SS-1/501 2ND FLR, SECTOR-2 NR MSEB OFFICE, Thane, 400709, Maharashtra, India</p>
                     </div>
                     <p className="mt-3">This addendum supplements the main Privacy Policy for users in the EEA. In case of conflict, this addendum prevails for EEA users.</p>
                     <p className="mt-2"><strong className="text-foreground">Cross-Border Transfers:</strong> We transfer data outside the EEA using Standard Contractual Clauses approved by the European Commission. Copies are available upon request.</p>
@@ -1148,13 +1150,13 @@ export default function PrivacyPolicy() {
 
                   <div>
                     <h3 className="font-semibold text-foreground">18.3 Addendum for Brazilian Users</h3>
-                    <p><strong className="text-foreground">Data Controller:</strong> AXSA Technologies Private Limited</p>
+                    <p><strong className="text-foreground">Data Controller:</strong> AXSA INNOVATIONS LLP</p>
                     <p className="mt-2"><strong className="text-foreground">International Transfers:</strong> We transfer data internationally using contractual clauses that ensure equivalent protection to LGPD requirements.</p>
                   </div>
 
                   <div>
                     <h3 className="font-semibold text-foreground">18.4 Addendum for Indian Users</h3>
-                    <p><strong className="text-foreground">Data Fiduciary:</strong> AXSA Technologies Private Limited</p>
+                    <p><strong className="text-foreground">Data Fiduciary:</strong> AXSA INNOVATIONS LLP</p>
                     <p className="mt-2">This addendum supplements the main Privacy Policy in accordance with the Digital Personal Data Protection Act, 2023, and applicable rules.</p>
                   </div>
                 </div>

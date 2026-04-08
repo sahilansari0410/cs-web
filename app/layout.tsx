@@ -60,9 +60,9 @@ export const metadata: Metadata = {
   // Author and Creator Information
   authors: [
     { name: "BLVCK", url: siteUrl },
-    { name: "AXSA Technologies Private Limited" },
+    { name: "AXSA INNOVATIONS LLP" },
   ],
-  creator: "AXSA Technologies Private Limited",
+  creator: "AXSA INNOVATIONS LLP",
   publisher: "BLVCK",
 
   // Generator
@@ -210,7 +210,7 @@ export const metadata: Metadata = {
 
     // DC Tags (Dublin Core)
     "DC.title": "BLVCK - Unlimited Private Cloud Storage",
-    "DC.creator": "AXSA Technologies Private Limited",
+    "DC.creator": "AXSA INNOVATIONS LLP",
     "DC.subject": "Cloud Storage, Privacy, Encryption, File Backup",
     "DC.description": "Unlimited private cloud storage with zero-knowledge encryption",
     "DC.publisher": "BLVCK",

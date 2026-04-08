@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   keywords: [
     "about BLVCK",
     "BLVCK company",
-    "AXSA Technologies",
+    "AXSA INNOVATIONS",
     "cloud storage company",
     "privacy-first cloud storage",
     "BLVCK mission",

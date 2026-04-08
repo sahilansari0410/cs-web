@@ -232,7 +232,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">1.1 The Agreement</h3>
-                    <p>These Terms of Service (&quot;Terms&quot; or &quot;Agreement&quot;) constitute a legally binding contract between you (&quot;User,&quot; &quot;you,&quot; or &quot;your&quot;) and AXSA Technologies Private Limited, a company incorporated under the laws of India, operating as &quot;BLVCK&quot; (&quot;BLVCK,&quot; &quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;).</p>
+                    <p>These Terms of Service (&quot;Terms&quot; or &quot;Agreement&quot;) constitute a legally binding contract between you (&quot;User,&quot; &quot;you,&quot; or &quot;your&quot;) and AXSA INNOVATIONS LLP, a company incorporated under the laws of India, operating as &quot;BLVCK&quot; (&quot;BLVCK,&quot; &quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;).</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">1.2 Services Covered</h3>
@@ -1228,7 +1228,8 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div className="p-4 rounded-xl bg-muted/50">
                     <h3 className="font-semibold text-foreground mb-2">BLVCK Legal Team</h3>
-                    <p>AXSA Technologies Private Limited</p>
+                    <p>AXSA INNOVATIONS LLP</p>
+                    <p>SS-1/501 2ND FLR, SECTOR-2 NR MSEB OFFICE, Thane, 400709, Maharashtra, India</p>
                     <div className="mt-3 grid grid-cols-1 md:grid-cols-2 gap-2">
                       <p>General Support: support@blvck.in</p>
                       <p>Legal Inquiries: legal@blvck.in</p>

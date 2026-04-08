@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     "cloud storage jobs",
     "remote developer jobs",
     "privacy tech jobs",
-    "AXSA Technologies careers",
+    "AXSA INNOVATIONS careers",
     "tech jobs",
     "remote-first company",
     "startup jobs",

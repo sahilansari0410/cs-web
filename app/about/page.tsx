@@ -111,7 +111,7 @@ export default function AboutPage() {
                   <p className="text-5xl font-bold text-foreground mb-2">2025</p>
                   <p className="text-muted-foreground">Year Founded</p>
                   <p className="text-sm text-muted-foreground mt-2">
-                    AXSA Technologies Private Limited
+                    AXSA INNOVATIONS LLP
                   </p>
                 </div>
               </CardContent>

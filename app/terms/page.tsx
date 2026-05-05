@@ -65,7 +65,7 @@ export default function TermsOfService() {
               Terms of <span className="gradient-text">Service</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-              Please read these terms carefully before using BLVCK. By using our service, you agree to these terms.
+              Please read these terms carefully before using 100X. By using our service, you agree to these terms.
             </p>
             <div className="mt-4 text-sm text-muted-foreground">
               <p>Last Updated: {lastUpdated}</p>
@@ -100,7 +100,7 @@ export default function TermsOfService() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground">Age Requirement</p>
-                      <p className="text-sm text-muted-foreground">You must be at least 18 years old to use BLVCK.</p>
+                      <p className="text-sm text-muted-foreground">You must be at least 18 years old to use 100X.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -232,15 +232,15 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">1.1 The Agreement</h3>
-                    <p>These Terms of Service (&quot;Terms&quot; or &quot;Agreement&quot;) constitute a legally binding contract between you (&quot;User,&quot; &quot;you,&quot; or &quot;your&quot;) and AXSA INNOVATIONS LLP, a company incorporated under the laws of India, operating as &quot;BLVCK&quot; (&quot;BLVCK,&quot; &quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;).</p>
+                    <p>These Terms of Service (&quot;Terms&quot; or &quot;Agreement&quot;) constitute a legally binding contract between you (&quot;User,&quot; &quot;you,&quot; or &quot;your&quot;) and AXSA INNOVATIONS LLP, a company incorporated under the laws of India, operating as &quot;100X&quot; (&quot;100X,&quot; &quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;).</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">1.2 Services Covered</h3>
                     <p>These Terms govern your access to and use of:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
-                      <li>The BLVCK mobile application (iOS and Android)</li>
-                      <li>The BLVCK website and web application</li>
-                      <li>BLVCK API and developer tools</li>
+                      <li>The 100X mobile application (iOS and Android)</li>
+                      <li>The 100X website and web application</li>
+                      <li>100X API and developer tools</li>
                       <li>All related services, features, content, and functionality (collectively, the &quot;Services&quot;)</li>
                     </ul>
                   </div>
@@ -248,9 +248,9 @@ export default function TermsOfService() {
                     <h3 className="font-semibold text-foreground mb-2">1.3 Acceptance of Terms</h3>
                     <p>By doing any of the following, you acknowledge that you have read, understood, and agree to be bound by these Terms:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
-                      <li>Creating a BLVCK account</li>
-                      <li>Downloading or installing the BLVCK application</li>
-                      <li>Accessing or using any BLVCK Services</li>
+                      <li>Creating a 100X account</li>
+                      <li>Downloading or installing the 100X application</li>
+                      <li>Accessing or using any 100X Services</li>
                       <li>Clicking &quot;I Agree&quot; or similar acceptance mechanism</li>
                     </ul>
                     <p className="mt-2">If you are accepting these Terms on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms.</p>
@@ -276,16 +276,16 @@ export default function TermsOfService() {
                   2. Definitions
                 </h2>
                 <div className="text-muted-foreground space-y-3">
-                  <p><strong className="text-foreground">&quot;Account&quot;</strong> means your registered BLVCK user account.</p>
+                  <p><strong className="text-foreground">&quot;Account&quot;</strong> means your registered 100X user account.</p>
                   <p><strong className="text-foreground">&quot;Active Subscriber&quot;</strong> means a user who has unlocked a Channel at least 15 times within a calendar month under the Creator Monetization Program.</p>
                   <p><strong className="text-foreground">&quot;Channel&quot;</strong> means user-created content collections that can be accessed by other users through the unlock system.</p>
-                  <p><strong className="text-foreground">&quot;Cloud Coins&quot;</strong> means the virtual currency used within BLVCK Services.</p>
+                  <p><strong className="text-foreground">&quot;Cloud Coins&quot;</strong> means the virtual currency used within 100X Services.</p>
                   <p><strong className="text-foreground">&quot;Content&quot;</strong> means any files, data, text, images, videos, audio, or other materials uploaded, stored, shared, or transmitted through the Services.</p>
                   <p><strong className="text-foreground">&quot;Creator&quot;</strong> means a user participating in the Creator Monetization Program.</p>
-                  <p><strong className="text-foreground">&quot;Encrypted Content&quot;</strong> means Content that is encrypted using BLVCK&apos;s zero-knowledge encryption system.</p>
+                  <p><strong className="text-foreground">&quot;Encrypted Content&quot;</strong> means Content that is encrypted using 100X&apos;s zero-knowledge encryption system.</p>
                   <p><strong className="text-foreground">&quot;Fair Usage Policy&quot; or &quot;FUP&quot;</strong> means our policy governing acceptable use of storage resources, as described in Section 6.4.</p>
                   <p><strong className="text-foreground">&quot;Intellectual Property Rights&quot;</strong> means all patent rights, copyright rights, moral rights, rights of publicity, trademark rights, trade dress rights, trade secret rights, and any other intellectual property rights.</p>
-                  <p><strong className="text-foreground">&quot;Premium Plan&quot;</strong> means any paid subscription tier of BLVCK Services.</p>
+                  <p><strong className="text-foreground">&quot;Premium Plan&quot;</strong> means any paid subscription tier of 100X Services.</p>
                   <p><strong className="text-foreground">&quot;User Content&quot;</strong> means any Content that you upload, store, share, or transmit through the Services.</p>
                 </div>
               </CardContent>
@@ -301,7 +301,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">3.1 Age Requirements</h3>
-                    <p>You must be at least 18 years old to use BLVCK. By using the Services, you represent and warrant that you meet this age requirement.</p>
+                    <p>You must be at least 18 years old to use 100X. By using the Services, you represent and warrant that you meet this age requirement.</p>
                     <p className="mt-2">We do not knowingly collect information from or provide Services to anyone under 18 years of age. If we learn that we have collected personal information from a user under 18, we will delete the account and associated data.</p>
                   </div>
                   <div>
@@ -336,7 +336,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">4.1 Account Creation</h3>
-                    <p>To access most features of BLVCK, you must create an account by providing a valid email address, a secure password, your name, and any other required information. You may also register using third-party authentication providers (such as Google or Apple Sign-In).</p>
+                    <p>To access most features of 100X, you must create an account by providing a valid email address, a secure password, your name, and any other required information. You may also register using third-party authentication providers (such as Google or Apple Sign-In).</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">4.2 Account Information</h3>
@@ -375,7 +375,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">5.1 Cloud Storage</h3>
-                    <p>BLVCK provides cloud storage services allowing you to upload, store, and organize files, access your files from multiple devices, share files and folders with others, and encrypt your private files using zero-knowledge encryption.</p>
+                    <p>100X provides cloud storage services allowing you to upload, store, and organize files, access your files from multiple devices, share files and folders with others, and encrypt your private files using zero-knowledge encryption.</p>
                   </div>
                   <div className="p-4 rounded-xl bg-success/10 border border-success/20">
                     <h3 className="font-semibold text-foreground mb-2 flex items-center gap-2">
@@ -385,18 +385,18 @@ export default function TermsOfService() {
                     <p>Private files are encrypted using zero-knowledge encryption:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Files are encrypted on your device before upload</li>
-                      <li>BLVCK does not have access to your encryption keys</li>
+                      <li>100X does not have access to your encryption keys</li>
                       <li>We cannot view, access, or recover the contents of encrypted files</li>
                       <li>If you lose your password without recovery options, your encrypted data cannot be recovered</li>
                     </ul>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">5.3 Channels and Social Features</h3>
-                    <p>BLVCK offers social features including creating and managing Channels, subscribing to and unlocking Channel content, and discovering content from other users.</p>
+                    <p>100X offers social features including creating and managing Channels, subscribing to and unlocking Channel content, and discovering content from other users.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">5.4 Cloud Coins Economy</h3>
-                    <p>BLVCK operates a virtual currency system where you can earn Cloud Coins through various activities, use Cloud Coins to unlock Channels and premium features, and purchase Cloud Coins through in-app purchases.</p>
+                    <p>100X operates a virtual currency system where you can earn Cloud Coins through various activities, use Cloud Coins to unlock Channels and premium features, and purchase Cloud Coins through in-app purchases.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">5.5 Creator Monetization</h3>
@@ -416,7 +416,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">6.1 Free Plan</h3>
-                    <p>BLVCK offers a free plan that includes up to 1 TB of storage, basic features as described in our documentation, and an advertisement-supported experience.</p>
+                    <p>100X offers a free plan that includes up to 1 TB of storage, basic features as described in our documentation, and an advertisement-supported experience.</p>
                     <p className="mt-2">The free plan is provided at our discretion. We reserve the right to modify free plan features, storage limits, or availability with 30 days notice to affected users.</p>
                   </div>
                   <div>
@@ -461,7 +461,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">7.1 Nature of Cloud Coins</h3>
-                    <p>Cloud Coins are a virtual currency for use within BLVCK Services:</p>
+                    <p>Cloud Coins are a virtual currency for use within 100X Services:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Cloud Coins are a limited license to use a digital feature, not property</li>
                       <li>Cloud Coins have no monetary value outside the Services</li>
@@ -539,11 +539,11 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.3 Revenue Calculation</h3>
-                    <p>Revenue is calculated based on the &quot;15-Unlock Rule&quot;: An &quot;Active Subscriber&quot; is a user with 15 or more unlocks of your Channel per month. Revenue is calculated based on Active Subscribers only. BLVCK&apos;s records regarding subscriber activity are final and binding for revenue calculations.</p>
+                    <p>Revenue is calculated based on the &quot;15-Unlock Rule&quot;: An &quot;Active Subscriber&quot; is a user with 15 or more unlocks of your Channel per month. Revenue is calculated based on Active Subscribers only. 100X&apos;s records regarding subscriber activity are final and binding for revenue calculations.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.4 Revenue Share</h3>
-                    <p>The revenue share percentage is specified in your Creator agreement. BLVCK reserves the right to modify the revenue share with 30 days notice.</p>
+                    <p>The revenue share percentage is specified in your Creator agreement. 100X reserves the right to modify the revenue share with 30 days notice.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.5 Payouts</h3>
@@ -551,11 +551,11 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.6 Tax Obligations</h3>
-                    <p>You are responsible for providing accurate tax information, paying all applicable taxes on your earnings, and complying with tax reporting requirements in your jurisdiction. BLVCK may be required to withhold taxes or report earnings to tax authorities.</p>
+                    <p>You are responsible for providing accurate tax information, paying all applicable taxes on your earnings, and complying with tax reporting requirements in your jurisdiction. 100X may be required to withhold taxes or report earnings to tax authorities.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.7 Program Termination</h3>
-                    <p>We may suspend or terminate your participation if you violate these Terms or program policies, engage in fraudulent activity, fail to maintain eligibility requirements, or request termination. Upon termination, you will receive any earned but unpaid revenue, less any amounts owed to BLVCK.</p>
+                    <p>We may suspend or terminate your participation if you violate these Terms or program policies, engage in fraudulent activity, fail to maintain eligibility requirements, or request termination. Upon termination, you will receive any earned but unpaid revenue, less any amounts owed to 100X.</p>
                   </div>
                 </div>
               </CardContent>
@@ -586,9 +586,9 @@ export default function TermsOfService() {
                     <h3 className="font-semibold text-foreground mb-2">10.4 Cancellation</h3>
                     <p>To cancel your subscription:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
-                      <li><strong className="text-foreground">iOS:</strong> Settings &gt; [Your Name] &gt; Subscriptions &gt; BLVCK &gt; Cancel Subscription</li>
-                      <li><strong className="text-foreground">Android:</strong> Google Play Store &gt; Menu &gt; Subscriptions &gt; BLVCK &gt; Cancel Subscription</li>
-                      <li><strong className="text-foreground">Web:</strong> BLVCK Settings &gt; Subscription &gt; Cancel</li>
+                      <li><strong className="text-foreground">iOS:</strong> Settings &gt; [Your Name] &gt; Subscriptions &gt; 100X &gt; Cancel Subscription</li>
+                      <li><strong className="text-foreground">Android:</strong> Google Play Store &gt; Menu &gt; Subscriptions &gt; 100X &gt; Cancel Subscription</li>
+                      <li><strong className="text-foreground">Web:</strong> 100X Settings &gt; Subscription &gt; Cancel</li>
                     </ul>
                     <p className="mt-2">Cancellation takes effect at the end of the current billing period. You will retain access to Premium features until then.</p>
                   </div>
@@ -615,28 +615,28 @@ export default function TermsOfService() {
                   <div className="p-4 rounded-xl bg-warning/10 border border-warning/20">
                     <h3 className="font-semibold text-foreground mb-2">11.1 No Refunds Policy</h3>
                     <p><strong className="text-foreground">ALL PREMIUM PURCHASES ARE FINAL AND NON-REFUNDABLE.</strong></p>
-                    <p className="mt-2">BLVCK does not provide refunds for any premium subscription purchases, Cloud Coin purchases, or any other paid services. By making a purchase, you acknowledge and agree that all sales are final.</p>
+                    <p className="mt-2">100X does not provide refunds for any premium subscription purchases, Cloud Coin purchases, or any other paid services. By making a purchase, you acknowledge and agree that all sales are final.</p>
                   </div>
                   <div className="p-4 rounded-xl bg-success/10 border border-success/20">
                     <h3 className="font-semibold text-foreground mb-2">11.2 Try Before You Buy</h3>
-                    <p>BLVCK provides a generous <strong className="text-foreground">free tier with 1 TB of storage</strong> that allows you to fully experience our service before making any purchase decision.</p>
+                    <p>100X provides a generous <strong className="text-foreground">free tier with 1 TB of storage</strong> that allows you to fully experience our service before making any purchase decision.</p>
                     <p className="mt-2">We encourage all users to:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Use the free service extensively before upgrading</li>
                       <li>Explore all features available in the free tier</li>
-                      <li>Ensure BLVCK meets your needs before purchasing premium</li>
+                      <li>Ensure 100X meets your needs before purchasing premium</li>
                       <li>Contact our support team with any questions before upgrading</li>
                     </ul>
-                    <p className="mt-2">Since we provide free access to our core services, you have ample opportunity to evaluate BLVCK before committing to a paid subscription. This is why we maintain a strict no-refund policy.</p>
+                    <p className="mt-2">Since we provide free access to our core services, you have ample opportunity to evaluate 100X before committing to a paid subscription. This is why we maintain a strict no-refund policy.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">11.3 App Store Purchases</h3>
-                    <p>For purchases made through Apple App Store or Google Play Store, BLVCK does not process refunds. Any refund requests must be directed to the respective app store and are subject to their policies:</p>
+                    <p>For purchases made through Apple App Store or Google Play Store, 100X does not process refunds. Any refund requests must be directed to the respective app store and are subject to their policies:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Apple: https://support.apple.com/en-us/HT204084</li>
                       <li>Google: https://support.google.com/googleplay/answer/2479637</li>
                     </ul>
-                    <p className="mt-2 text-sm">Note: BLVCK does not control or guarantee refunds through third-party app stores.</p>
+                    <p className="mt-2 text-sm">Note: 100X does not control or guarantee refunds through third-party app stores.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">11.4 Statutory Rights</h3>
@@ -709,7 +709,7 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">12.5 Reporting Violations</h3>
-                    <p>To report violations, contact abuse@blvck.in or use the in-app &quot;Report&quot; feature.</p>
+                    <p>To report violations, contact abuse@100x.sbs or use the in-app &quot;Report&quot; feature.</p>
                   </div>
                 </div>
               </CardContent>
@@ -724,8 +724,8 @@ export default function TermsOfService() {
                 </h2>
                 <div className="text-muted-foreground space-y-4">
                   <div>
-                    <h3 className="font-semibold text-foreground mb-2">13.1 BLVCK Intellectual Property</h3>
-                    <p>BLVCK and its licensors retain all rights, title, and interest in the Services and all software, technology, and infrastructure, the BLVCK name, logo, and branding, all patents, trademarks, copyrights, and trade secrets, and all improvements, modifications, and derivative works.</p>
+                    <h3 className="font-semibold text-foreground mb-2">13.1 100X Intellectual Property</h3>
+                    <p>100X and its licensors retain all rights, title, and interest in the Services and all software, technology, and infrastructure, the 100X name, logo, and branding, all patents, trademarks, copyrights, and trade secrets, and all improvements, modifications, and derivative works.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">13.2 Limited License to Users</h3>
@@ -750,16 +750,16 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">14.1 Your Ownership</h3>
-                    <p>You retain all ownership rights in your User Content. BLVCK does not claim ownership of any User Content you upload or store.</p>
+                    <p>You retain all ownership rights in your User Content. 100X does not claim ownership of any User Content you upload or store.</p>
                   </div>
                   <div>
-                    <h3 className="font-semibold text-foreground mb-2">14.2 License to BLVCK</h3>
-                    <p>By uploading User Content, you grant BLVCK a limited license to store, process, and transmit your Content (necessary to provide the Services), create backups and redundant copies, display Content to users you authorize, and use technical measures to protect your Content.</p>
+                    <h3 className="font-semibold text-foreground mb-2">14.2 License to 100X</h3>
+                    <p>By uploading User Content, you grant 100X a limited license to store, process, and transmit your Content (necessary to provide the Services), create backups and redundant copies, display Content to users you authorize, and use technical measures to protect your Content.</p>
                     <p className="mt-2">This license is non-exclusive, worldwide, royalty-free, limited to what is necessary to provide the Services, and terminable upon deletion of your Content or account.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">14.3 Channel Content License</h3>
-                    <p>For Content you make available through Channels, you grant BLVCK a license to display, distribute, and make the Content available to users who unlock your Channel, and users who unlock your Channel a limited license to view the Content for personal use.</p>
+                    <p>For Content you make available through Channels, you grant 100X a license to display, distribute, and make the Content available to users who unlock your Channel, and users who unlock your Channel a limited license to view the Content for personal use.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">14.4 Representations and Warranties</h3>
@@ -779,7 +779,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">15.1 Respect for Copyright</h3>
-                    <p>BLVCK respects the intellectual property rights of others and expects users to do the same. We respond to notices of alleged copyright infringement in accordance with applicable law.</p>
+                    <p>100X respects the intellectual property rights of others and expects users to do the same. We respond to notices of alleged copyright infringement in accordance with applicable law.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">15.2 DMCA Notice (United States)</h3>
@@ -794,7 +794,7 @@ export default function TermsOfService() {
                     </ul>
                     <div className="mt-3 p-3 rounded-lg bg-muted/50">
                       <p>Send DMCA notices to:</p>
-                      <p>Email: dmca@blvck.in</p>
+                      <p>Email: dmca@100x.sbs</p>
                     </div>
                   </div>
                   <div>
@@ -807,7 +807,7 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">15.5 International Copyright</h3>
-                    <p>For copyright claims outside the United States, please contact dmca@blvck.in with equivalent information under your local law.</p>
+                    <p>For copyright claims outside the United States, please contact dmca@100x.sbs with equivalent information under your local law.</p>
                   </div>
                 </div>
               </CardContent>
@@ -876,7 +876,7 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">18.3 Support</h3>
-                    <p>Support is available through email at support@blvck.in, in-app help center, and online documentation. Response times vary based on issue severity and support volume.</p>
+                    <p>Support is available through email at support@100x.sbs, in-app help center, and online documentation. Response times vary based on issue severity and support volume.</p>
                   </div>
                 </div>
               </CardContent>
@@ -916,10 +916,10 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">20.1 Termination by You</h3>
-                    <p>You may terminate your account at any time through account settings in the application or by contacting support@blvck.in. Upon termination, your right to access the Services ends immediately, you may download your data before termination (encrypted files require your password), and subscription fees are not refunded for partial periods (except as required by law).</p>
+                    <p>You may terminate your account at any time through account settings in the application or by contacting support@100x.sbs. Upon termination, your right to access the Services ends immediately, you may download your data before termination (encrypted files require your password), and subscription fees are not refunded for partial periods (except as required by law).</p>
                   </div>
                   <div>
-                    <h3 className="font-semibold text-foreground mb-2">20.2 Termination by BLVCK</h3>
+                    <h3 className="font-semibold text-foreground mb-2">20.2 Termination by 100X</h3>
                     <p><strong className="text-foreground">With Notice (14 days):</strong> For violation of these Terms (with opportunity to cure if reasonable), for extended periods of inactivity (12+ months), and for non-payment of fees.</p>
                     <p className="mt-2"><strong className="text-foreground">Without Notice:</strong> For severe or repeated violations of these Terms, for illegal activity, for activity that threatens the security or integrity of the Services, for activity that harms other users, and as required by law.</p>
                   </div>
@@ -977,11 +977,11 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div className="p-4 rounded-xl bg-muted/50">
                     <h3 className="font-semibold text-foreground mb-2">22.1 Exclusion of Certain Damages</h3>
-                    <p className="uppercase text-sm">TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, BLVCK AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, AND LICENSORS SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, LOSS OF PROFITS, REVENUE, OR DATA, BUSINESS INTERRUPTION, OR COST OF SUBSTITUTE SERVICES, REGARDLESS OF THE THEORY OF LIABILITY.</p>
+                    <p className="uppercase text-sm">TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, 100X AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, AND LICENSORS SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, LOSS OF PROFITS, REVENUE, OR DATA, BUSINESS INTERRUPTION, OR COST OF SUBSTITUTE SERVICES, REGARDLESS OF THE THEORY OF LIABILITY.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">22.2 Liability Cap</h3>
-                    <p className="uppercase text-sm">TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, OUR TOTAL CUMULATIVE LIABILITY FOR ALL CLAIMS ARISING FROM OR RELATED TO THESE TERMS OR THE SERVICES SHALL NOT EXCEED THE GREATER OF: THE AMOUNT YOU PAID TO BLVCK IN THE 12 MONTHS PRECEDING THE CLAIM; OR ONE HUNDRED US DOLLARS ($100 USD).</p>
+                    <p className="uppercase text-sm">TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, OUR TOTAL CUMULATIVE LIABILITY FOR ALL CLAIMS ARISING FROM OR RELATED TO THESE TERMS OR THE SERVICES SHALL NOT EXCEED THE GREATER OF: THE AMOUNT YOU PAID TO 100X IN THE 12 MONTHS PRECEDING THE CLAIM; OR ONE HUNDRED US DOLLARS ($100 USD).</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">22.3 Exceptions</h3>
@@ -989,7 +989,7 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">22.5 Basis of the Bargain</h3>
-                    <p className="uppercase text-sm">THE LIMITATIONS OF LIABILITY IN THESE TERMS ARE A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND BLVCK. THE SERVICES WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS.</p>
+                    <p className="uppercase text-sm">THE LIMITATIONS OF LIABILITY IN THESE TERMS ARE A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND 100X. THE SERVICES WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS.</p>
                   </div>
                 </div>
               </CardContent>
@@ -1005,7 +1005,7 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">23.1 Your Indemnification Obligations</h3>
-                    <p>To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless BLVCK, its parent company, affiliates, licensors, service providers, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys&apos; fees) arising out of or relating to your violation of these Terms, your User Content, your use of the Services, your violation of any third party&apos;s rights, and your violation of any applicable law.</p>
+                    <p>To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless 100X, its parent company, affiliates, licensors, service providers, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys&apos; fees) arising out of or relating to your violation of these Terms, your User Content, your use of the Services, your violation of any third party&apos;s rights, and your violation of any applicable law.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">23.2 Indemnification Process</h3>
@@ -1013,7 +1013,7 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">23.3 Limitations</h3>
-                    <p>This indemnification obligation does not apply to the extent that a claim arises from BLVCK&apos;s gross negligence or willful misconduct. Some jurisdictions do not allow indemnification provisions; in such jurisdictions, this section applies to the maximum extent permitted by law.</p>
+                    <p>This indemnification obligation does not apply to the extent that a claim arises from 100X&apos;s gross negligence or willful misconduct. Some jurisdictions do not allow indemnification provisions; in such jurisdictions, this section applies to the maximum extent permitted by law.</p>
                   </div>
                 </div>
               </CardContent>
@@ -1056,7 +1056,7 @@ export default function TermsOfService() {
                     <p>If you are in India, nothing in these Terms excludes rights under the Consumer Protection Act, 2019. Disputes may be filed with consumer forums as provided under applicable law. These Terms are governed by the laws of India.</p>
                     <div className="mt-2 p-3 rounded-lg bg-muted/50">
                       <p className="font-medium text-foreground">Grievance Officer:</p>
-                      <p>As required under Indian law, our Grievance Officer can be contacted at: grievance@blvck.in</p>
+                      <p>As required under Indian law, our Grievance Officer can be contacted at: grievance@100x.sbs</p>
                     </div>
                   </div>
 
@@ -1072,7 +1072,7 @@ export default function TermsOfService() {
 
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">24.7 Other Jurisdictions</h3>
-                    <p>If you are in a jurisdiction with consumer protection laws that provide rights beyond those in these Terms, your statutory rights are not affected. In case of conflict, mandatory local law prevails. Please contact legal@blvck.in with questions about your jurisdiction.</p>
+                    <p>If you are in a jurisdiction with consumer protection laws that provide rights beyond those in these Terms, your statutory rights are not affected. In case of conflict, mandatory local law prevails. Please contact legal@100x.sbs with questions about your jurisdiction.</p>
                   </div>
                 </div>
               </CardContent>
@@ -1088,15 +1088,15 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">25.1 Informal Resolution</h3>
-                    <p>Before initiating formal dispute resolution, you agree to contact us at disputes@blvck.in and attempt to resolve the dispute informally for at least 30 days.</p>
+                    <p>Before initiating formal dispute resolution, you agree to contact us at disputes@100x.sbs and attempt to resolve the dispute informally for at least 30 days.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">25.2 Binding Arbitration (Where Permitted)</h3>
                     <p className="font-medium text-foreground">FOR USERS IN JURISDICTIONS WHERE ARBITRATION AGREEMENTS ARE ENFORCEABLE:</p>
-                    <p className="mt-2">You and BLVCK agree that any dispute, controversy, or claim arising out of or relating to these Terms or the Services shall be resolved through binding arbitration, except for claims within small claims court jurisdiction, claims for injunctive relief regarding intellectual property, and disputes excluded by applicable law.</p>
+                    <p className="mt-2">You and 100X agree that any dispute, controversy, or claim arising out of or relating to these Terms or the Services shall be resolved through binding arbitration, except for claims within small claims court jurisdiction, claims for injunctive relief regarding intellectual property, and disputes excluded by applicable law.</p>
                     <p className="mt-2">Arbitration shall be conducted under the Arbitration and Conciliation Act, 1996 (India). The seat and venue shall be Thane, Maharashtra, India. The language shall be English. The arbitrator&apos;s decision shall be final and binding.</p>
                     <p className="mt-2 font-medium text-foreground">Class Action Waiver:</p>
-                    <p className="uppercase text-sm">YOU AND BLVCK AGREE THAT DISPUTES WILL BE RESOLVED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION.</p>
+                    <p className="uppercase text-sm">YOU AND 100X AGREE THAT DISPUTES WILL BE RESOLVED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION.</p>
                     <p className="mt-2">This arbitration agreement does not apply to users in the EEA, UK, or other jurisdictions where such agreements are not enforceable against consumers.</p>
                   </div>
                   <div>
@@ -1125,7 +1125,7 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">26.2 Entire Agreement</h3>
-                    <p>These Terms, together with our <NextLink href="/privacy-policy" className="gradient-link">Privacy Policy</NextLink> and any Additional Terms, constitute the entire agreement between you and BLVCK regarding the Services and supersede all prior agreements and understandings.</p>
+                    <p>These Terms, together with our <NextLink href="/privacy-policy" className="gradient-link">Privacy Policy</NextLink> and any Additional Terms, constitute the entire agreement between you and 100X regarding the Services and supersede all prior agreements and understandings.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">26.3 Severability</h3>
@@ -1145,7 +1145,7 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">26.7 Notices</h3>
-                    <p>Notices to you may be sent to your registered email address or posted within the application. Notices to BLVCK must be sent to legal@blvck.in.</p>
+                    <p>Notices to you may be sent to your registered email address or posted within the application. Notices to 100X must be sent to legal@100x.sbs.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">26.10 Export Compliance</h3>
@@ -1169,15 +1169,15 @@ export default function TermsOfService() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.1 Program Overview</h3>
-                    <p>The BLVCK Royalty Program allows eligible premium users to earn a percentage-based royalty for referring new users to BLVCK. Royalty is earned when referred users purchase a BLVCK Premium subscription at $49.99/month. This is a lifetime program — royalty earnings continue for as long as both the referrer and referred user maintain their accounts and subscriptions.</p>
+                    <p>The 100X Royalty Program allows eligible premium users to earn a percentage-based royalty for referring new users to 100X. Royalty is earned when referred users purchase a 100X Premium subscription at $49.99/month. This is a lifetime program — royalty earnings continue for as long as both the referrer and referred user maintain their accounts and subscriptions.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.2 Eligibility</h3>
-                    <p>The Royalty Program is exclusively available to BLVCK Premium subscribers. Free users are not eligible to earn royalty. To begin earning, you must have at least 10 referred users who have converted to premium. If you cancel or downgrade your premium subscription, all future royalty payouts will be suspended until your premium membership is reactivated.</p>
+                    <p>The Royalty Program is exclusively available to 100X Premium subscribers. Free users are not eligible to earn royalty. To begin earning, you must have at least 10 referred users who have converted to premium. If you cancel or downgrade your premium subscription, all future royalty payouts will be suspended until your premium membership is reactivated.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.3 Referral Code &amp; Mapping</h3>
-                    <p>Each user is assigned a unique referral link and referral code accessible within the BLVCK app. A new user must enter the referral code during the signup process to be permanently mapped under the referrer&apos;s account. This mapping is irreversible and lasts for the lifetime of both accounts. Referral codes cannot be applied retroactively after account creation. Only one referral code can be used per account.</p>
+                    <p>Each user is assigned a unique referral link and referral code accessible within the 100X app. A new user must enter the referral code during the signup process to be permanently mapped under the referrer&apos;s account. This mapping is irreversible and lasts for the lifetime of both accounts. Referral codes cannot be applied retroactively after account creation. Only one referral code can be used per account.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.4 Royalty Tiers</h3>
@@ -1192,27 +1192,27 @@ export default function TermsOfService() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.5 Earning &amp; Credit Mechanics</h3>
-                    <p>Royalty is automatically credited to your Creator Payout page within the BLVCK app on each premium purchase by a referred user. Additionally, 200 BLVCK coins are automatically credited to your account for every successful referral signup, regardless of whether the referred user converts to premium. Every premium purchase counts — including re-subscriptions after cancellation. This is not a one-time commission; it is a recurring royalty for the lifetime of the referred user&apos;s subscription activity.</p>
+                    <p>Royalty is automatically credited to your Creator Payout page within the 100X app on each premium purchase by a referred user. Additionally, 200 100X coins are automatically credited to your account for every successful referral signup, regardless of whether the referred user converts to premium. Every premium purchase counts — including re-subscriptions after cancellation. This is not a one-time commission; it is a recurring royalty for the lifetime of the referred user&apos;s subscription activity.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.6 Privacy &amp; Zero-Knowledge Policy</h3>
-                    <p>In accordance with BLVCK&apos;s zero-knowledge encryption architecture, referrers cannot track, view, or identify their referred users. You will not have access to the names, email addresses, or any personal information of the users you refer. All credits (coins and royalty payouts) are automated by the system. This policy exists to protect the privacy of all BLVCK users equally and is non-negotiable.</p>
+                    <p>In accordance with 100X&apos;s zero-knowledge encryption architecture, referrers cannot track, view, or identify their referred users. You will not have access to the names, email addresses, or any personal information of the users you refer. All credits (coins and royalty payouts) are automated by the system. This policy exists to protect the privacy of all 100X users equally and is non-negotiable.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.7 Account Cancellation &amp; Payout Eligibility</h3>
-                    <p>If the referrer cancels or permanently deletes their BLVCK premium account, all future royalty payouts will cease immediately. Pending payouts up to the date of cancellation will still be processed. Referred users remain mapped to the original referrer — however, no payouts will be issued to an inactive or deleted account. Re-subscribing to premium will reactivate royalty earnings for future purchases only; payouts missed during the inactive period are not retroactively compensated.</p>
+                    <p>If the referrer cancels or permanently deletes their 100X premium account, all future royalty payouts will cease immediately. Pending payouts up to the date of cancellation will still be processed. Referred users remain mapped to the original referrer — however, no payouts will be issued to an inactive or deleted account. Re-subscribing to premium will reactivate royalty earnings for future purchases only; payouts missed during the inactive period are not retroactively compensated.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.8 Fraud &amp; Abuse</h3>
-                    <p>BLVCK employs advanced monitoring systems to detect fraudulent referral activity including but not limited to: self-referrals, bot-generated signups, fake accounts, coordinated abuse, and incentivized signups that violate platform guidelines. Any account found engaging in fraudulent activity will have their royalty earnings permanently forfeited, and their account may be suspended or terminated at BLVCK&apos;s sole discretion without prior notice.</p>
+                    <p>100X employs advanced monitoring systems to detect fraudulent referral activity including but not limited to: self-referrals, bot-generated signups, fake accounts, coordinated abuse, and incentivized signups that violate platform guidelines. Any account found engaging in fraudulent activity will have their royalty earnings permanently forfeited, and their account may be suspended or terminated at 100X&apos;s sole discretion without prior notice.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.9 Modification &amp; Termination</h3>
-                    <p>BLVCK reserves the right to modify, suspend, or terminate the Royalty Program at any time with 30 days prior notice to participants. Any changes to royalty percentages or tier structures will apply prospectively and will not affect earnings already credited. In the event of program termination, all pending payouts will be honored.</p>
+                    <p>100X reserves the right to modify, suspend, or terminate the Royalty Program at any time with 30 days prior notice to participants. Any changes to royalty percentages or tier structures will apply prospectively and will not affect earnings already credited. In the event of program termination, all pending payouts will be honored.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">27.10 Tax Obligations</h3>
-                    <p>Royalty earnings may be subject to applicable taxes in your jurisdiction. You are solely responsible for reporting and paying any taxes owed on your royalty income. BLVCK may issue tax documentation as required by law. By participating in the program, you acknowledge your obligation to comply with all applicable tax laws.</p>
+                    <p>Royalty earnings may be subject to applicable taxes in your jurisdiction. You are solely responsible for reporting and paying any taxes owed on your royalty income. 100X may issue tax documentation as required by law. By participating in the program, you acknowledge your obligation to comply with all applicable tax laws.</p>
                   </div>
                 </div>
               </CardContent>
@@ -1227,18 +1227,18 @@ export default function TermsOfService() {
                 </h2>
                 <div className="text-muted-foreground space-y-4">
                   <div className="p-4 rounded-xl bg-muted/50">
-                    <h3 className="font-semibold text-foreground mb-2">BLVCK Legal Team</h3>
+                    <h3 className="font-semibold text-foreground mb-2">100X Legal Team</h3>
                     <p>AXSA INNOVATIONS LLP</p>
                     <p>SS-1/501 2ND FLR, SECTOR-2 NR MSEB OFFICE, Thane, 400709, Maharashtra, India</p>
                     <div className="mt-3 grid grid-cols-1 md:grid-cols-2 gap-2">
-                      <p>General Support: support@blvck.in</p>
-                      <p>Legal Inquiries: legal@blvck.in</p>
-                      <p>Billing Issues: billing@blvck.in</p>
-                      <p>Abuse Reports: abuse@blvck.in</p>
-                      <p>DMCA/Copyright: dmca@blvck.in</p>
-                      <p>Disputes: disputes@blvck.in</p>
-                      <p>Privacy: privacy@blvck.in</p>
-                      <p>Grievance Officer (India): grievance@blvck.in</p>
+                      <p>General Support: support@100x.sbs</p>
+                      <p>Legal Inquiries: legal@100x.sbs</p>
+                      <p>Billing Issues: billing@100x.sbs</p>
+                      <p>Abuse Reports: abuse@100x.sbs</p>
+                      <p>DMCA/Copyright: dmca@100x.sbs</p>
+                      <p>Disputes: disputes@100x.sbs</p>
+                      <p>Privacy: privacy@100x.sbs</p>
+                      <p>Grievance Officer (India): grievance@100x.sbs</p>
                     </div>
                   </div>
                 </div>
@@ -1248,7 +1248,7 @@ export default function TermsOfService() {
             {/* End Note */}
             <div className="text-center text-sm text-muted-foreground pt-8 border-t border-border">
               <p>End of Terms of Service</p>
-              <p className="mt-2">By using BLVCK, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.</p>
+              <p className="mt-2">By using 100X, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.</p>
             </div>
           </motion.div>
         </div>

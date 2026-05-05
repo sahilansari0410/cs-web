@@ -48,7 +48,7 @@ export default function AboutPage() {
           >
             <Badge variant="primary" className="mb-4">
               <Building2 className="w-3.5 h-3.5" />
-              About BLVCK
+              About 100X
             </Badge>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
               Building the Future of{" "}
@@ -89,12 +89,12 @@ export default function AboutPage() {
                   </h2>
                   <p className="text-muted-foreground mb-4">
                     Why should cloud storage come with limits, high costs, and privacy concerns?
-                    In 2025, we set out to answer this question by building BLVCK—a platform
+                    In 2025, we set out to answer this question by building 100X—a platform
                     that puts users first.
                   </p>
                   <p className="text-muted-foreground">
                     Our zero-knowledge encryption ensures that your files remain private—not even
-                    we can see what you store. Today, BLVCK serves users worldwide who trust
+                    we can see what you store. Today, 100X serves users worldwide who trust
                     us with their most important files.
                   </p>
                 </div>
@@ -261,7 +261,7 @@ export default function AboutPage() {
                     </div>
                     <div>
                       <p className="font-medium text-foreground text-sm">Founded</p>
-                      <p className="text-xs text-muted-foreground">BLVCK launched</p>
+                      <p className="text-xs text-muted-foreground">100X launched</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -298,7 +298,7 @@ export default function AboutPage() {
                       <h3 className="text-xl font-bold text-foreground">Our Team</h3>
                     </div>
                     <p className="text-muted-foreground mb-4">
-                      Behind BLVCK is a passionate team of engineers, designers, and privacy
+                      Behind 100X is a passionate team of engineers, designers, and privacy
                       advocates who believe in building technology that respects users.
                     </p>
                     <p className="text-muted-foreground">

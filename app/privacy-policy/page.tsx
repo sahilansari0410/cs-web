@@ -63,7 +63,7 @@ export default function PrivacyPolicy() {
               Privacy <span className="gradient-text">Policy</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-              Your privacy is fundamental to everything we do at BLVCK. This policy explains how we protect your data.
+              Your privacy is fundamental to everything we do at 100X. This policy explains how we protect your data.
             </p>
             <div className="mt-4 text-sm text-muted-foreground">
               <p>Last Updated: {lastUpdated}</p>
@@ -182,13 +182,13 @@ export default function PrivacyPolicy() {
                 </h2>
                 <div className="text-muted-foreground space-y-4">
                   <p>
-                    This Privacy Policy (&quot;Policy&quot;) describes how AXSA INNOVATIONS LLP, operating as &quot;BLVCK&quot; (&quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), collects, uses, processes, shares, and protects your personal information when you use our services.
+                    This Privacy Policy (&quot;Policy&quot;) describes how AXSA INNOVATIONS LLP, operating as &quot;100X&quot; (&quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), collects, uses, processes, shares, and protects your personal information when you use our services.
                   </p>
                   <p>This Policy applies to:</p>
                   <ul className="list-disc pl-6 space-y-1">
-                    <li>The BLVCK mobile application (iOS and Android)</li>
-                    <li>The BLVCK website (blvck.in and related domains)</li>
-                    <li>BLVCK API and developer services</li>
+                    <li>The 100X mobile application (iOS and Android)</li>
+                    <li>The 100X website (100x.sbs and related domains)</li>
+                    <li>100X API and developer services</li>
                     <li>All related services, features, and content (collectively, the &quot;Services&quot;)</li>
                   </ul>
                   <p>
@@ -332,7 +332,7 @@ export default function PrivacyPolicy() {
                     <ul className="list-disc pl-6 space-y-1 mb-4">
                       <li>Your files are encrypted on your device before upload</li>
                       <li>Only you possess the decryption keys</li>
-                      <li>BLVCK employees, engineers, contractors, and automated systems cannot view, read, or access the contents of your encrypted files</li>
+                      <li>100X employees, engineers, contractors, and automated systems cannot view, read, or access the contents of your encrypted files</li>
                       <li>If you lose your password and recovery options, we cannot recover your encrypted data</li>
                       <li>Even in response to legal requests, we cannot provide decrypted file contents because we do not have the capability to decrypt them</li>
                     </ul>
@@ -635,7 +635,7 @@ export default function PrivacyPolicy() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground">8.1 Global Sharding Architecture</h3>
-                    <p>BLVCK uses distributed infrastructure for security and reliability. Your encrypted files are:</p>
+                    <p>100X uses distributed infrastructure for security and reliability. Your encrypted files are:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Split into fragments (shards)</li>
                       <li>Encrypted individually</li>
@@ -665,7 +665,7 @@ export default function PrivacyPolicy() {
 
                   <div>
                     <h3 className="font-semibold text-foreground">8.3 Your Acknowledgment</h3>
-                    <p>By using BLVCK, you acknowledge and agree that:</p>
+                    <p>By using 100X, you acknowledge and agree that:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Your data is transferred globally as a security feature</li>
                       <li>File fragments may reside in multiple jurisdictions simultaneously</li>
@@ -742,7 +742,7 @@ export default function PrivacyPolicy() {
                       <li><strong className="text-foreground">Right to Withdraw Consent:</strong> Withdraw consent for processing based on consent.</li>
                       <li><strong className="text-foreground">Right to Complain:</strong> Lodge a complaint with us or relevant authorities.</li>
                     </ul>
-                    <p className="mt-3">To exercise these rights, contact us at privacy@blvck.in or use the in-app settings.</p>
+                    <p className="mt-3">To exercise these rights, contact us at privacy@100x.sbs or use the in-app settings.</p>
                     <p className="mt-2"><strong className="text-foreground">Response Time:</strong> We will respond to requests within 30 days. Complex requests may require an extension of up to 60 additional days, with notification.</p>
                   </div>
 
@@ -810,14 +810,14 @@ export default function PrivacyPolicy() {
                     </ul>
                     <div className="mt-3 p-3 rounded-lg bg-muted/50">
                       <p className="font-medium text-foreground">Grievance Officer:</p>
-                      <p>Email: grievance@blvck.in</p>
+                      <p>Email: grievance@100x.sbs</p>
                       <p>Response Time: We will respond within 7 days of receiving your request.</p>
                     </div>
                   </div>
 
                   <div>
                     <h3 className="font-semibold text-foreground">10.7 Other Jurisdictions</h3>
-                    <p>We respect privacy rights in all jurisdictions where we operate. If your jurisdiction provides additional rights not listed above, please contact us at privacy@blvck.in, and we will address your request in accordance with applicable law.</p>
+                    <p>We respect privacy rights in all jurisdictions where we operate. If your jurisdiction provides additional rights not listed above, please contact us at privacy@100x.sbs, and we will address your request in accordance with applicable law.</p>
                   </div>
                 </div>
               </CardContent>
@@ -906,7 +906,7 @@ export default function PrivacyPolicy() {
                   12. Children&apos;s Privacy
                 </h2>
                 <div className="text-muted-foreground space-y-4">
-                  <p><strong className="text-foreground">BLVCK is not intended for children.</strong></p>
+                  <p><strong className="text-foreground">100X is not intended for children.</strong></p>
                   <p>Our age requirements:</p>
                   <ul className="list-disc pl-6 space-y-1">
                     <li>Minimum age: 18 years old globally</li>
@@ -922,7 +922,7 @@ export default function PrivacyPolicy() {
 
                   <p>If you believe a child has created an account:</p>
                   <ul className="list-disc pl-6 space-y-1">
-                    <li>Contact us immediately at privacy@blvck.in</li>
+                    <li>Contact us immediately at privacy@100x.sbs</li>
                     <li>Provide any information that may help identify the account</li>
                   </ul>
 
@@ -1096,27 +1096,27 @@ export default function PrivacyPolicy() {
 
                   <div className="p-4 rounded-xl bg-muted/50">
                     <h3 className="font-semibold text-foreground mb-2">General Inquiries</h3>
-                    <p className="font-medium text-foreground">BLVCK Privacy Team</p>
+                    <p className="font-medium text-foreground">100X Privacy Team</p>
                     <p>AXSA INNOVATIONS LLP</p>
                     <p>SS-1/501 2ND FLR, SECTOR-2 NR MSEB OFFICE, Thane, 400709, Maharashtra, India</p>
                     <div className="mt-3">
-                      <p>Email: privacy@blvck.in</p>
-                      <p>General Support: support@blvck.in</p>
-                      <p>Legal Inquiries: legal@blvck.in</p>
+                      <p>Email: privacy@100x.sbs</p>
+                      <p>General Support: support@100x.sbs</p>
+                      <p>Legal Inquiries: legal@100x.sbs</p>
                     </div>
                   </div>
 
                   <div className="p-4 rounded-xl bg-muted/50">
                     <h3 className="font-semibold text-foreground mb-2">Grievance Officer (India)</h3>
                     <p>As required under Indian law:</p>
-                    <p>Email: grievance@blvck.in</p>
+                    <p>Email: grievance@100x.sbs</p>
                     <p>Response Time: Within 7 days</p>
                   </div>
 
                   <div className="p-4 rounded-xl bg-muted/50">
                     <h3 className="font-semibold text-foreground mb-2">Data Protection Officer</h3>
                     <p>For GDPR-related inquiries:</p>
-                    <p>Email: dpo@blvck.in</p>
+                    <p>Email: dpo@100x.sbs</p>
                   </div>
                 </div>
               </CardContent>

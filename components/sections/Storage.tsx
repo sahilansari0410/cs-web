@@ -252,7 +252,7 @@ export function Storage() {
                   </div>
                 </div>
                 <p className="text-sm text-muted-foreground mb-6">
-                  We don&apos;t restrict file types. Upload any file regardless of extension - photos, videos, documents, archives, project files, or anything else. If your device can create it, BLVCK can store it.
+                  We don&apos;t restrict file types. Upload any file regardless of extension - photos, videos, documents, archives, project files, or anything else. If your device can create it, 100X can store it.
                 </p>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                   <div className="text-center p-3 rounded-xl bg-muted/50">
@@ -288,14 +288,14 @@ export function Storage() {
               <CardContent className="p-6">
                 <div className="flex items-center gap-2 mb-6">
                   <Zap className="w-5 h-5 text-primary" />
-                  <h3 className="font-semibold text-foreground">BLVCK vs. Others</h3>
+                  <h3 className="font-semibold text-foreground">100X vs. Others</h3>
                 </div>
                 <div className="overflow-x-auto">
                   <table className="w-full">
                     <thead>
                       <tr className="border-b border-border">
                         <th className="text-left py-3 px-4 text-sm font-medium text-muted-foreground">Feature</th>
-                        <th className="text-center py-3 px-4 text-sm font-medium text-primary">BLVCK</th>
+                        <th className="text-center py-3 px-4 text-sm font-medium text-primary">100X</th>
                         <th className="text-center py-3 px-4 text-sm font-medium text-muted-foreground">Others</th>
                       </tr>
                     </thead>
@@ -396,7 +396,7 @@ export function Storage() {
           <div className="inline-flex items-center gap-3 px-6 py-4 rounded-2xl bg-card border border-border">
             <InfinityIcon className="w-5 h-5 text-primary" />
             <span className="text-foreground">
-              Others charge per GB or TB. <span className="font-semibold">BLVCK doesn&apos;t.</span>
+              Others charge per GB or TB. <span className="font-semibold">100X doesn&apos;t.</span>
             </span>
           </div>
         </motion.div>

@@ -69,7 +69,7 @@ export function Header() {
               >
                 Support
               </Link>
-              <a href="mailto:support@blvck.in">
+              <a href="mailto:support@100x.sbs">
                 <Button variant="primary" size="sm" className="rounded-full px-6">
                   Contact
                 </Button>
@@ -162,7 +162,7 @@ export function Header() {
                 {/* Bottom Buttons */}
                 <div className="px-6 py-8 flex flex-col gap-3">
                   <a
-                    href="mailto:support@blvck.in"
+                    href="mailto:support@100x.sbs"
                     onClick={() => setIsMobileMenuOpen(false)}
                     className="w-full"
                   >

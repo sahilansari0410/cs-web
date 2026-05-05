@@ -154,7 +154,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            &copy; {new Date().getFullYear()} BLVCK. All rights reserved.
+            &copy; {new Date().getFullYear()} 100X. All rights reserved.
           </p>
           <div className="flex items-center gap-4 text-muted-foreground text-sm">
             <span className="flex items-center gap-1.5">

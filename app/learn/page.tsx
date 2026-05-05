@@ -44,7 +44,7 @@ const gettingStartedSteps = [
   {
     step: "1",
     title: "Download the App",
-    description: "Get BLVCK from the App Store or Google Play Store",
+    description: "Get 100X from the App Store or Google Play Store",
     icon: Smartphone,
   },
   {
@@ -119,13 +119,13 @@ export default function LearnPage() {
           >
             <Badge variant="primary" className="mb-4">
               <GraduationCap className="w-3.5 h-3.5" />
-              Learn BLVCK
+              Learn 100X
             </Badge>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-              Master <span className="gradient-text">BLVCK</span>
+              Master <span className="gradient-text">100X</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-              Everything you need to know about using BLVCK, creating channels,
+              Everything you need to know about using 100X, creating channels,
               earning money, and managing your payouts.
             </p>
           </motion.div>
@@ -525,7 +525,7 @@ export default function LearnPage() {
                 <CardContent className="p-6 md:p-8">
                   <h3 className="text-xl font-bold text-foreground mb-3">Getting Paid</h3>
                   <p className="text-muted-foreground mb-6">
-                    Access your earnings and request payouts directly from your Profile page. BLVCK offers
+                    Access your earnings and request payouts directly from your Profile page. 100X offers
                     multiple payout methods to ensure you can receive your money wherever you are.
                   </p>
                   <div className="grid grid-cols-2 md:grid-cols-4 gap-3">

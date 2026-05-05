@@ -126,7 +126,7 @@ export function Pricing() {
                     <Sparkles className="w-6 h-6 text-primary" />
                   </div>
                   <h3 className="text-xl font-bold text-foreground mb-1">
-                    BLVCK Unlimited
+                    100X Unlimited
                   </h3>
                   <p className="text-muted-foreground text-sm">
                     Everything you need. Nothing you don&apos;t.
@@ -190,7 +190,7 @@ export function Pricing() {
               <CardContent className="p-6 h-full">
                 <div className="flex items-center gap-2 mb-4">
                   <TrendingUp className="w-5 h-5 text-primary" />
-                  <h3 className="font-semibold text-foreground">The BLVCK Advantage</h3>
+                  <h3 className="font-semibold text-foreground">The 100X Advantage</h3>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4">
                   {valueStats.map((stat, index) => (
@@ -258,7 +258,7 @@ export function Pricing() {
             </Card>
           </motion.div>
 
-          {/* BLVCK Difference - Bento Card */}
+          {/* 100X Difference - Bento Card */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -269,7 +269,7 @@ export function Pricing() {
               <CardContent className="p-6">
                 <div className="flex items-center gap-2 mb-4">
                   <EyeOff className="w-5 h-5 text-success" />
-                  <h3 className="font-semibold text-foreground">BLVCK Difference</h3>
+                  <h3 className="font-semibold text-foreground">100X Difference</h3>
                 </div>
                 <p className="text-sm text-muted-foreground mb-4">
                   You pay for true privacy:
@@ -308,14 +308,14 @@ export function Pricing() {
               <CardContent className="p-6">
                 <div className="flex items-center gap-2 mb-6">
                   <Zap className="w-5 h-5 text-primary" />
-                  <h3 className="font-semibold text-foreground">BLVCK vs. The Rest</h3>
+                  <h3 className="font-semibold text-foreground">100X vs. The Rest</h3>
                 </div>
                 <div className="overflow-x-auto">
                   <table className="w-full">
                     <thead>
                       <tr className="border-b border-border">
                         <th className="text-left py-3 px-4 text-sm font-medium text-muted-foreground">Feature</th>
-                        <th className="text-center py-3 px-4 text-sm font-medium text-primary">BLVCK</th>
+                        <th className="text-center py-3 px-4 text-sm font-medium text-primary">100X</th>
                         <th className="text-center py-3 px-4 text-sm font-medium text-muted-foreground">Others</th>
                       </tr>
                     </thead>

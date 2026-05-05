@@ -5,7 +5,7 @@ const ANDROID_PLAY_STORE = "https://play.google.com/store/apps/details?id=org.cl
 const APP_STORE_ID = "6757381326";
 
 export function generateDeepLinkHTML(options) {
-  const { path, title = "Opening BLVCK...", description = "You're being redirected to the BLVCK app." } = options;
+  const { path, title = "Opening 100X...", description = "You're being redirected to the 100X app." } = options;
   const appSchemeUrl = `${APP_SCHEME}${path.startsWith("/") ? path.slice(1) : path}`;
 
   return `<!DOCTYPE html>
@@ -13,7 +13,7 @@ export function generateDeepLinkHTML(options) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${title} | BLVCK</title>
+  <title>${title} | 100X</title>
   <meta name="description" content="${description}">
   <meta name="apple-itunes-app" content="app-id=${APP_STORE_ID}, app-argument=${path}">
   <!-- Open Graph -->
@@ -95,8 +95,8 @@ export function generateDeepLinkHTML(options) {
       <p>${description}</p>
     </div>
     <div id="fallback" class="hidden">
-      <h1>Get BLVCK App</h1>
-      <p>Download the BLVCK app to view this content.</p>
+      <h1>Get 100X App</h1>
+      <p>Download the 100X app to view this content.</p>
       <div class="buttons">
         <a href="${IOS_APP_STORE}" class="btn btn-primary" id="ios-btn">
           Download on App Store
@@ -109,7 +109,7 @@ export function generateDeepLinkHTML(options) {
         </a>
       </div>
     </div>
-    <p class="footer">BLVCK - Secure Cloud Storage</p>
+    <p class="footer">100X - Secure Cloud Storage</p>
   </div>
   <script>
     const appSchemeUrl = "${appSchemeUrl}";

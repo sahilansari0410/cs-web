@@ -31,7 +31,7 @@ const ShareLinkAnimation = () => {
     { name: 'source-code.zip', size: '89 MB', icon: '💻', type: 'Code' },
   ];
 
-  const finalLink = 'blvck.in/share/aSk09Dhs2hC';
+  const finalLink = '100x.sbs/share/aSk09Dhs2hC';
   const linkId = 'aSk09Dhs2hC';
 
   const runAnimation = useCallback(async () => {
@@ -137,7 +137,7 @@ const ShareLinkAnimation = () => {
                 <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
               </svg>
               <span className={`text-muted-foreground ${isMobile ? 'text-xs' : 'text-sm'} font-mono truncate`}>
-                blvck.in/share/...
+                100x.sbs/share/...
               </span>
             </div>
           </div>
@@ -265,7 +265,7 @@ const ShareLinkAnimation = () => {
                 >
                   <div className="flex items-center">
                     <span className={`text-muted-foreground ${isMobile ? 'text-xs' : 'text-sm'}`}>
-                      {stage >= 2 ? linkChars.slice(0, 21).join('') : 'blvck.in/share/'}
+                      {stage >= 2 ? linkChars.slice(0, 21).join('') : '100x.sbs/share/'}
                     </span>
                     {stage >= 2 && (
                       <span
@@ -356,7 +356,7 @@ const ShareLinkAnimation = () => {
               </div>
               <div className="flex items-center gap-1 justify-center flex-wrap">
                 <span className={`text-muted-foreground ${isMobile ? 'text-sm' : 'text-base'} font-mono`}>
-                  blvck.in/share/
+                  100x.sbs/share/
                 </span>
                 <span
                   className={`text-success ${isMobile ? 'text-base' : 'text-lg'} font-bold font-mono animate-glow`}

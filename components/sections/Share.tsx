@@ -21,12 +21,12 @@ const features = [
   {
     icon: Link,
     title: "One Secure Link",
-    description: "Share any file with a single encrypted link. Recipients open it in the BLVCK app for secure viewing.",
+    description: "Share any file with a single encrypted link. Recipients open it in the 100X app for secure viewing.",
   },
   {
     icon: Smartphone,
-    title: "BLVCK App Required",
-    description: "Recipients need the BLVCK app to decrypt and view shared files. This ensures end-to-end security.",
+    title: "100X App Required",
+    description: "Recipients need the 100X app to decrypt and view shared files. This ensures end-to-end security.",
   },
   {
     icon: Globe,
@@ -46,7 +46,7 @@ const features = [
   {
     icon: Lock,
     title: "Zero-Knowledge Sharing",
-    description: "Even BLVCK cannot see what you share. Your files stay private between you and your recipients.",
+    description: "Even 100X cannot see what you share. Your files stay private between you and your recipients.",
   },
 ];
 
@@ -81,7 +81,7 @@ export function Share() {
             Share <span className="gradient-text">Securely</span>
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            Send files to anyone with one secure link. Recipients open in the BLVCK app
+            Send files to anyone with one secure link. Recipients open in the 100X app
             for encrypted, private access.
           </p>
         </motion.div>
@@ -156,8 +156,8 @@ export function Share() {
                     3
                   </div>
                   <div>
-                    <p className="text-foreground font-medium">Open in BLVCK App</p>
-                    <p className="text-sm text-muted-foreground">Recipients open the link in BLVCK app for secure decryption</p>
+                    <p className="text-foreground font-medium">Open in 100X App</p>
+                    <p className="text-sm text-muted-foreground">Recipients open the link in 100X app for secure decryption</p>
                   </div>
                 </div>
               </div>
@@ -198,10 +198,10 @@ export function Share() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">
-                      BLVCK App Required
+                      100X App Required
                     </h4>
                     <p className="text-sm text-muted-foreground">
-                      For security, recipients must have the BLVCK app installed to view shared files.
+                      For security, recipients must have the 100X app installed to view shared files.
                       This ensures files remain encrypted and only authorized users can access them.
                     </p>
                   </div>

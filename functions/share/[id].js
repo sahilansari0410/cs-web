@@ -6,7 +6,7 @@ export async function onRequest(context) {
   const html = generateDeepLinkHTML({
     path: `/share/${id}`,
     title: "Opening shared content...",
-    description: "You're being redirected to view shared content in the BLVCK app.",
+    description: "You're being redirected to view shared content in the 100X app.",
   });
 
   return new Response(html, {

@@ -6,7 +6,7 @@ export async function onRequest(context) {
   const html = generateDeepLinkHTML({
     path: `/c/${id}`,
     title: "Opening channel...",
-    description: "You're being redirected to view this channel in the BLVCK app.",
+    description: "You're being redirected to view this channel in the 100X app.",
   });
 
   return new Response(html, {

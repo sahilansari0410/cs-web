@@ -66,7 +66,7 @@ const articles: Article[] = [
     icon: Lock,
     content: [
       "Your private files are encrypted on your device before they leave it using AES-256 encryption.",
-      "Only you possess the decryption keys - BLVCK cannot access your encrypted files.",
+      "Only you possess the decryption keys - 100X cannot access your encrypted files.",
       "Even in response to legal requests, we cannot provide decrypted file contents because we do not have the capability to decrypt them.",
       "If you lose your password and recovery options, we cannot recover your encrypted data.",
     ],
@@ -75,7 +75,7 @@ const articles: Article[] = [
   },
   {
     id: "data-collection",
-    title: "What Data Does BLVCK Collect?",
+    title: "What Data Does 100X Collect?",
     description: "Learn about the information we collect and how it's used.",
     category: "Privacy & Security",
     icon: Database,
@@ -100,7 +100,7 @@ const articles: Article[] = [
       "Right to Correction: Request correction of inaccurate or incomplete data.",
       "Right to Deletion: Request deletion of your account and associated data.",
       "Right to Data Portability: Receive your data in a structured, machine-readable format.",
-      "Contact privacy@blvck.in to exercise your rights. We respond within 30 days.",
+      "Contact privacy@100x.sbs to exercise your rights. We respond within 30 days.",
     ],
     relatedLink: "/privacy-policy#privacy-rights",
     relatedLinkLabel: "Learn More",
@@ -138,16 +138,16 @@ const articles: Article[] = [
   // Getting Started
   {
     id: "create-account",
-    title: "Creating Your BLVCK Account",
+    title: "Creating Your 100X Account",
     description: "Step-by-step guide to getting started.",
     category: "Getting Started",
     icon: Users,
     content: [
-      "Download BLVCK from the App Store (iOS) or Google Play (Android).",
+      "Download 100X from the App Store (iOS) or Google Play (Android).",
       "Sign up with your email address or use Google/Apple Sign-In.",
       "Create a secure password - we never store passwords in plain text.",
       "Verify your email address to activate your account.",
-      "You must be at least 18 years old to use BLVCK.",
+      "You must be at least 18 years old to use 100X.",
     ],
     relatedLink: "/terms#account",
     relatedLinkLabel: "Account Terms",
@@ -172,7 +172,7 @@ const articles: Article[] = [
   {
     id: "upload-files",
     title: "How to Upload Files",
-    description: "Upload photos, videos, and documents to BLVCK.",
+    description: "Upload photos, videos, and documents to 100X.",
     category: "Getting Started",
     icon: Upload,
     content: [
@@ -237,9 +237,9 @@ const articles: Article[] = [
     category: "Billing & Subscriptions",
     icon: X,
     content: [
-      "iOS: Settings > [Your Name] > Subscriptions > BLVCK > Cancel",
-      "Android: Google Play Store > Menu > Subscriptions > BLVCK > Cancel",
-      "Web: BLVCK Settings > Subscription > Cancel",
+      "iOS: Settings > [Your Name] > Subscriptions > 100X > Cancel",
+      "Android: Google Play Store > Menu > Subscriptions > 100X > Cancel",
+      "Web: 100X Settings > Subscription > Cancel",
       "Cancellation takes effect at the end of your current billing period.",
       "You keep Premium features until the period ends.",
     ],
@@ -249,7 +249,7 @@ const articles: Article[] = [
   {
     id: "payment-methods",
     title: "Accepted Payment Methods",
-    description: "How to pay for BLVCK Premium.",
+    description: "How to pay for 100X Premium.",
     category: "Billing & Subscriptions",
     icon: Wallet,
     content: [
@@ -264,13 +264,13 @@ const articles: Article[] = [
   {
     id: "what-are-cloud-coins",
     title: "What Are Cloud Coins?",
-    description: "Understanding BLVCK's virtual currency.",
+    description: "Understanding 100X's virtual currency.",
     category: "Cloud Coins",
     icon: Coins,
     content: [
-      "Cloud Coins are virtual currency used within BLVCK.",
+      "Cloud Coins are virtual currency used within 100X.",
       "Use them to unlock Channel content and access premium features.",
-      "They have no monetary value outside BLVCK.",
+      "They have no monetary value outside 100X.",
       "Cloud Coins cannot be exchanged for cash (except through Creator Program).",
       "Earned coins expire after 12 months; purchased coins don't expire.",
     ],
@@ -364,7 +364,7 @@ const articles: Article[] = [
     content: [
       "Premium Users: 1,000+ subscribers, 90 days active, Premium subscription.",
       "Free Users: 10,000+ subscribers, 180 days active, manual application required.",
-      "Apply at support@blvck.in (free users).",
+      "Apply at support@100x.sbs (free users).",
       "Premium users are automatically notified when eligible.",
       "Maintain requirements to stay in the program.",
     ],
@@ -398,7 +398,7 @@ const articles: Article[] = [
       "Earnings below threshold roll over to the next month.",
       "Payouts processed by the 15th of each month for previous month.",
       "Payment methods: Wire transfer, bank transfer, UPI, AirTM, USDT, Bitcoin.",
-      "Creators keep 100% of their earnings - BLVCK takes 0%.",
+      "Creators keep 100% of their earnings - 100X takes 0%.",
     ],
     relatedLink: "/monetization-policy#payment",
     relatedLinkLabel: "Payment Terms",
@@ -412,7 +412,7 @@ const articles: Article[] = [
     content: [
       "You are responsible for reporting earnings to tax authorities.",
       "Provide accurate tax information (W-9, W-8BEN, PAN, etc.).",
-      "BLVCK may withhold taxes as required by law (TDS in India, backup withholding in US).",
+      "100X may withhold taxes as required by law (TDS in India, backup withholding in US).",
       "Annual earnings statements and tax documents available in Creator Dashboard.",
       "Consult a qualified tax professional for advice.",
     ],
@@ -451,7 +451,7 @@ const articles: Article[] = [
   {
     id: "delete-account",
     title: "Deleting Your Account",
-    description: "How to permanently delete your BLVCK account.",
+    description: "How to permanently delete your 100X account.",
     category: "Account & Security",
     icon: X,
     content: [
@@ -468,11 +468,11 @@ const articles: Article[] = [
   {
     id: "acceptable-use",
     title: "Acceptable Use Policy",
-    description: "What you can and cannot do on BLVCK.",
+    description: "What you can and cannot do on 100X.",
     category: "Policies & Legal",
     icon: Ban,
     content: [
-      "Use BLVCK only for lawful purposes.",
+      "Use 100X only for lawful purposes.",
       "No illegal content (CSAM, terrorism, trafficking).",
       "No copyright infringement or pirated content.",
       "No cryptocurrency mining or plotting.",
@@ -506,7 +506,7 @@ const articles: Article[] = [
     icon: FileText,
     content: [
       "We respect intellectual property rights.",
-      "Send DMCA notices to: dmca@blvck.in",
+      "Send DMCA notices to: dmca@100x.sbs",
       "Include: your contact info, copyrighted work identification, infringing material location, good faith statement.",
       "Counter-notifications can be filed if you believe removal was in error.",
       "Repeat infringers may have accounts terminated.",
@@ -521,11 +521,11 @@ const articles: Article[] = [
     category: "Policies & Legal",
     icon: Baby,
     content: [
-      "BLVCK is NOT intended for children.",
+      "100X is NOT intended for children.",
       "Minimum age requirement: 18 years old globally.",
       "We do not knowingly collect data from users under 18.",
       "Accounts of underage users will be suspended and deleted.",
-      "Report underage accounts to: privacy@blvck.in",
+      "Report underage accounts to: privacy@100x.sbs",
     ],
     relatedLink: "/privacy-policy#children",
     relatedLinkLabel: "Children's Policy",
@@ -566,11 +566,11 @@ const articles: Article[] = [
     category: "Troubleshooting",
     icon: AlertTriangle,
     content: [
-      "Update to the latest version of BLVCK.",
+      "Update to the latest version of 100X.",
       "Restart your device.",
-      "Clear app cache (Settings > Apps > BLVCK > Clear Cache).",
+      "Clear app cache (Settings > Apps > 100X > Clear Cache).",
       "Ensure you have sufficient device storage.",
-      "If issues persist, contact support@blvck.in with device details.",
+      "If issues persist, contact support@100x.sbs with device details.",
     ],
   },
 ];
@@ -647,14 +647,14 @@ const searchSuggestions = [
 // Frequently Asked Questions
 const faqs = [
   {
-    id: "is-blvck-free",
-    question: "Is BLVCK really free?",
-    answer: "Yes! BLVCK offers a generous free tier with 1 TB of cloud storage. The free plan is ad-supported, meaning you'll see occasional ads, but you get full access to core features including zero-knowledge encryption, cross-device sync, and Cloud Channels. Premium plans are available for those who want an ad-free experience and additional features.",
+    id: "is-100x-free",
+    question: "Is 100X really free?",
+    answer: "Yes! 100X offers a generous free tier with 1 TB of cloud storage. The free plan is ad-supported, meaning you'll see occasional ads, but you get full access to core features including zero-knowledge encryption, cross-device sync, and Cloud Channels. Premium plans are available for those who want an ad-free experience and additional features.",
   },
   {
     id: "how-secure",
     question: "How secure is my data?",
-    answer: "Your data is protected with military-grade AES-256 encryption. We use zero-knowledge encryption, meaning your files are encrypted on your device before they ever leave it. Only you have the decryption keys - not even BLVCK can access your encrypted files. This ensures your privacy even in the event of a data breach.",
+    answer: "Your data is protected with military-grade AES-256 encryption. We use zero-knowledge encryption, meaning your files are encrypted on your device before they ever leave it. Only you have the decryption keys - not even 100X can access your encrypted files. This ensures your privacy even in the event of a data breach.",
   },
   {
     id: "offline-access",
@@ -664,7 +664,7 @@ const faqs = [
   {
     id: "cancel-subscription-faq",
     question: "How do I cancel my subscription?",
-    answer: "You can cancel your subscription anytime through your device settings. On iOS, go to Settings > [Your Name] > Subscriptions > BLVCK. On Android, open Google Play Store > Menu > Subscriptions > BLVCK. Your premium features remain active until the end of your current billing period.",
+    answer: "You can cancel your subscription anytime through your device settings. On iOS, go to Settings > [Your Name] > Subscriptions > 100X. On Android, open Google Play Store > Menu > Subscriptions > 100X. Your premium features remain active until the end of your current billing period.",
   },
   {
     id: "lost-password",
@@ -679,7 +679,7 @@ const faqs = [
   {
     id: "file-types",
     question: "What file types can I upload?",
-    answer: "BLVCK supports virtually all file types including photos (JPG, PNG, HEIC, RAW), videos (MP4, MOV, AVI), documents (PDF, DOC, XLS), and more. There are no restrictions on file types, but content must comply with our Terms of Service and Acceptable Use Policy.",
+    answer: "100X supports virtually all file types including photos (JPG, PNG, HEIC, RAW), videos (MP4, MOV, AVI), documents (PDF, DOC, XLS), and more. There are no restrictions on file types, but content must comply with our Terms of Service and Acceptable Use Policy.",
   },
   {
     id: "creator-program-faq",
@@ -689,7 +689,7 @@ const faqs = [
   {
     id: "share-files",
     question: "Can I share files with others?",
-    answer: "Yes! You can share files and folders with others by generating a secure share link. Recipients don't need a BLVCK account to view shared content. You can also share through Cloud Channels for a subscriber-based model. Note that shared content is not end-to-end encrypted.",
+    answer: "Yes! You can share files and folders with others by generating a secure share link. Recipients don't need a 100X account to view shared content. You can also share through Cloud Channels for a subscriber-based model. Note that shared content is not end-to-end encrypted.",
   },
   {
     id: "premium-vs-free",
@@ -763,9 +763,9 @@ export default function SupportPage() {
       icon: Mail,
       title: "Email Support",
       description: "Get help via email. We typically respond within 24 hours.",
-      action: "support@blvck.in",
+      action: "support@100x.sbs",
       actionLabel: "Send Email",
-      href: "mailto:support@blvck.in",
+      href: "mailto:support@100x.sbs",
       badge: null,
     },
     {
@@ -1279,7 +1279,7 @@ export default function SupportPage() {
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Button variant="primary" size="md">
                     <a
-                      href="mailto:support@blvck.in"
+                      href="mailto:support@100x.sbs"
                       className="flex items-center gap-2"
                     >
                       <Mail className="w-4 h-4" />

@@ -6,7 +6,7 @@ export async function onRequest(context) {
   const html = generateDeepLinkHTML({
     path: `/referral/${id}`,
     title: "Referral link",
-    description: "You've been invited to BLVCK! Download the app to claim your bonus.",
+    description: "You've been invited to 100X! Download the app to claim your bonus.",
   });
 
   return new Response(html, {

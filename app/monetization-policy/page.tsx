@@ -67,7 +67,7 @@ export default function MonetizationPage() {
               <span className="gradient-text">Policy</span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-              Addendum to <Link href="/terms" className="gradient-link">Terms of Service</Link>. These terms govern your participation in the BLVCK Channel system and Monetization Program.
+              Addendum to <Link href="/terms" className="gradient-link">Terms of Service</Link>. These terms govern your participation in the 100X Channel system and Monetization Program.
             </p>
             <div className="mt-4 text-sm text-muted-foreground">
               <p>Last Updated: {lastUpdated}</p>
@@ -147,7 +147,7 @@ export default function MonetizationPage() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground">You Own Your Content</p>
-                      <p className="text-sm text-muted-foreground">Retain ownership of everything you upload. Grant BLVCK a license to display it.</p>
+                      <p className="text-sm text-muted-foreground">Retain ownership of everything you upload. Grant 100X a license to display it.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -165,7 +165,7 @@ export default function MonetizationPage() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground">Independent Contractor</p>
-                      <p className="text-sm text-muted-foreground">You are an independent contractor, not a BLVCK employee.</p>
+                      <p className="text-sm text-muted-foreground">You are an independent contractor, not a 100X employee.</p>
                     </div>
                   </div>
                 </div>
@@ -234,13 +234,13 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">1.1 Purpose</h3>
-                    <p>These Channel and Monetization Terms (&quot;Creator Terms&quot;) govern your participation in the BLVCK Channel system and Monetization Program. They establish the rules for creating Channels, publishing content, and earning revenue through the platform.</p>
+                    <p>These Channel and Monetization Terms (&quot;Creator Terms&quot;) govern your participation in the 100X Channel system and Monetization Program. They establish the rules for creating Channels, publishing content, and earning revenue through the platform.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">1.2 Applicability</h3>
                     <p>These Creator Terms apply to any user who:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
-                      <li>Creates a Channel on BLVCK</li>
+                      <li>Creates a Channel on 100X</li>
                       <li>Uploads content for subscriber access</li>
                       <li>Applies for or participates in the Monetization Program</li>
                       <li>Earns or attempts to earn revenue through the platform</li>
@@ -248,7 +248,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">1.3 Relationship to Main Terms</h3>
-                    <p>These Creator Terms are an addendum to and incorporated into the main BLVCK <Link href="/terms" className="gradient-link">Terms of Service</Link>. By creating a Channel or applying for monetization, you agree to both documents.</p>
+                    <p>These Creator Terms are an addendum to and incorporated into the main 100X <Link href="/terms" className="gradient-link">Terms of Service</Link>. By creating a Channel or applying for monetization, you agree to both documents.</p>
                     <p className="mt-2">In the event of a conflict:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>These Creator Terms prevail for Channel and monetization matters</li>
@@ -278,8 +278,8 @@ export default function MonetizationPage() {
                   <p><strong className="text-foreground">&quot;Channel Content&quot;</strong> means all photos, videos, text, audio, and other materials you upload to your Channel.</p>
                   <p><strong className="text-foreground">&quot;Channel Metadata&quot;</strong> means your Channel name, description, profile picture, category tags, and publicly displayed statistics.</p>
                   <p><strong className="text-foreground">&quot;Creator&quot;</strong> means a user who has created one or more Channels.</p>
-                  <p><strong className="text-foreground">&quot;Creator Dashboard&quot;</strong> means the section of the BLVCK application where you manage your Channel(s) and view monetization metrics.</p>
-                  <p><strong className="text-foreground">&quot;Monetization Program&quot;</strong> means BLVCK&apos;s revenue-sharing program for eligible Creators.</p>
+                  <p><strong className="text-foreground">&quot;Creator Dashboard&quot;</strong> means the section of the 100X application where you manage your Channel(s) and view monetization metrics.</p>
+                  <p><strong className="text-foreground">&quot;Monetization Program&quot;</strong> means 100X&apos;s revenue-sharing program for eligible Creators.</p>
                   <p><strong className="text-foreground">&quot;Monthly Earnings&quot;</strong> means the total revenue attributed to your Channel(s) for a calendar month.</p>
                   <p><strong className="text-foreground">&quot;Net Revenue&quot;</strong> means gross revenue minus applicable fees, refunds, chargebacks, and adjustments.</p>
                   <p><strong className="text-foreground">&quot;Payout&quot;</strong> means the transfer of earned revenue to your designated payment method.</p>
@@ -300,7 +300,7 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">3.1 Creating a Channel</h3>
-                    <p>Any eligible BLVCK user may create a Channel, subject to account in good standing, compliance with these Creator Terms, and completion of required profile information.</p>
+                    <p>Any eligible 100X user may create a Channel, subject to account in good standing, compliance with these Creator Terms, and completion of required profile information.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">3.2 Channel Types</h3>
@@ -312,13 +312,13 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">3.4 Multiple Channels</h3>
-                    <p>You may create multiple Channels, subject to each Channel having distinct content or purpose, no use of multiple Channels to circumvent platform rules, and BLVCK&apos;s right to limit the number of Channels per account.</p>
+                    <p>You may create multiple Channels, subject to each Channel having distinct content or purpose, no use of multiple Channels to circumvent platform rules, and 100X&apos;s right to limit the number of Channels per account.</p>
                   </div>
                   <div className="p-4 rounded-xl bg-warning/10 border border-warning/20">
                     <h3 className="font-semibold text-foreground mb-2">3.5 Channel Metadata Visibility</h3>
                     <p>You acknowledge and agree that Channel Metadata is:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
-                      <li>Publicly visible to all BLVCK users</li>
+                      <li>Publicly visible to all 100X users</li>
                       <li>Indexed and searchable within the platform</li>
                       <li><strong>NOT</strong> protected by end-to-end encryption</li>
                       <li>Potentially used for platform recommendations and discovery</li>
@@ -352,7 +352,7 @@ export default function MonetizationPage() {
                       <li>You must have their written consent (model release)</li>
                       <li>They must be at least 18 years old</li>
                       <li>You must maintain records of consent for at least 3 years</li>
-                      <li>You must provide consent documentation upon BLVCK&apos;s request</li>
+                      <li>You must provide consent documentation upon 100X&apos;s request</li>
                     </ul>
                   </div>
                   <div>
@@ -361,7 +361,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">4.5 Third-Party Content</h3>
-                    <p>If your Channel includes third-party content (music, images, clips, etc.), you must have proper licenses or permissions, comply with the terms of any licenses, are responsible for any licensing fees, and BLVCK may remove content upon copyright claims.</p>
+                    <p>If your Channel includes third-party content (music, images, clips, etc.), you must have proper licenses or permissions, comply with the terms of any licenses, are responsible for any licensing fees, and 100X may remove content upon copyright claims.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">4.6 Content Accuracy</h3>
@@ -381,11 +381,11 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div className="p-4 rounded-xl bg-success/10 border border-success/20">
                     <h3 className="font-semibold text-foreground mb-2">5.1 Your Ownership</h3>
-                    <p>You retain full ownership of all Channel Content you create and upload. <strong className="text-foreground">BLVCK does not claim ownership of your content.</strong></p>
+                    <p>You retain full ownership of all Channel Content you create and upload. <strong className="text-foreground">100X does not claim ownership of your content.</strong></p>
                   </div>
                   <div>
-                    <h3 className="font-semibold text-foreground mb-2">5.2 License Grant to BLVCK</h3>
-                    <p>By uploading Channel Content, you grant BLVCK a:</p>
+                    <h3 className="font-semibold text-foreground mb-2">5.2 License Grant to 100X</h3>
+                    <p>By uploading Channel Content, you grant 100X a:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Non-exclusive license</li>
                       <li>Worldwide scope</li>
@@ -411,11 +411,11 @@ export default function MonetizationPage() {
                       <li>Maintain presences on competing services</li>
                       <li>Enter into agreements with other content platforms</li>
                     </ul>
-                    <p className="mt-2">BLVCK does not restrict your ability to distribute your content elsewhere.</p>
+                    <p className="mt-2">100X does not restrict your ability to distribute your content elsewhere.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">5.6 Content After Termination</h3>
-                    <p>Upon termination of your account or Channel, you may download your content before termination takes effect, BLVCK&apos;s license to your content terminates (subject to Section 5.3), existing subscriber access windows will complete naturally, and we may retain content as required for legal compliance.</p>
+                    <p>Upon termination of your account or Channel, you may download your content before termination takes effect, 100X&apos;s license to your content terminates (subject to Section 5.3), existing subscriber access windows will complete naturally, and we may retain content as required for legal compliance.</p>
                   </div>
                 </div>
               </CardContent>
@@ -445,7 +445,7 @@ export default function MonetizationPage() {
                       <li>The subscriber must unlock again to regain access</li>
                       <li>Multiple unlocks within 12 hours do not extend the window</li>
                     </ul>
-                    <p className="mt-3">You acknowledge that this mechanism is fundamental to the BLVCK ecosystem, cannot be disabled or modified by Creators, applies equally to all Channels, and is designed to create ongoing engagement and fair revenue distribution.</p>
+                    <p className="mt-3">You acknowledge that this mechanism is fundamental to the 100X ecosystem, cannot be disabled or modified by Creators, applies equally to all Channels, and is designed to create ongoing engagement and fair revenue distribution.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">6.3 Access Limitations</h3>
@@ -464,7 +464,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">6.4 Unlock Pricing</h3>
-                    <p>Cloud Coin costs for unlocks are set by BLVCK based on platform economics, uniform across similar Channel categories, subject to change with notice to Creators, and displayed to subscribers before unlock.</p>
+                    <p>Cloud Coin costs for unlocks are set by 100X based on platform economics, uniform across similar Channel categories, subject to change with notice to Creators, and displayed to subscribers before unlock.</p>
                   </div>
                 </div>
               </CardContent>
@@ -480,7 +480,7 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">7.1 Program Overview</h3>
-                    <p>The Monetization Program allows eligible Creators to earn revenue from subscriber activity on their Channels. Participation is a privilege granted at BLVCK&apos;s discretion, not a right.</p>
+                    <p>The Monetization Program allows eligible Creators to earn revenue from subscriber activity on their Channels. Participation is a privilege granted at 100X&apos;s discretion, not a right.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">7.2 Eligibility Requirements</h3>
@@ -501,8 +501,8 @@ export default function MonetizationPage() {
                         <ul className="list-disc pl-6 space-y-1 text-sm">
                           <li>Minimum 10,000 subscribers</li>
                           <li>Minimum 180 days of consistent Channel activity</li>
-                          <li>Manual application via support@blvck.in</li>
-                          <li>Approval at BLVCK&apos;s sole discretion</li>
+                          <li>Manual application via support@100x.sbs</li>
+                          <li>Approval at 100X&apos;s sole discretion</li>
                           <li>Completed tax and payment information</li>
                         </ul>
                       </div>
@@ -549,7 +549,7 @@ export default function MonetizationPage() {
                       <Users className="w-5 h-5 text-primary" />
                       8.1 The 15-Unlock Rule
                     </h3>
-                    <p>BLVCK uses the &quot;15-Unlock Rule&quot; to calculate Creator revenue:</p>
+                    <p>100X uses the &quot;15-Unlock Rule&quot; to calculate Creator revenue:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
                       <li>Revenue is based <strong className="text-foreground">exclusively</strong> on &quot;Active Subscribers&quot;</li>
                       <li>A subscriber becomes &quot;Active&quot; by unlocking your Channel <strong className="text-foreground">at least 15 times</strong> in a calendar month</li>
@@ -574,8 +574,8 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">8.4 Revenue Per Active Subscriber (RPAS)</h3>
-                    <p>The RPAS rate is variable and determined by BLVCK, reflects ad market conditions, platform costs, and sustainability, may differ by region or category, is displayed on your Creator Dashboard, and is subject to change (see Section 15).</p>
-                    <p className="mt-2">Current rates are always available at: https://blvck.in/creator-rates</p>
+                    <p>The RPAS rate is variable and determined by 100X, reflects ad market conditions, platform costs, and sustainability, may differ by region or category, is displayed on your Creator Dashboard, and is subject to change (see Section 15).</p>
+                    <p className="mt-2">Current rates are always available at: https://100x.sbs/creator-rates</p>
                   </div>
                   <div className="p-4 rounded-xl bg-success/10 border border-success/20">
                     <h3 className="font-semibold text-foreground mb-2">8.5 Revenue Share Split</h3>
@@ -587,10 +587,10 @@ export default function MonetizationPage() {
                       </div>
                       <div className="flex-1 text-center p-3 rounded-lg bg-background">
                         <p className="text-2xl font-bold text-muted-foreground">0%</p>
-                        <p className="text-sm">BLVCK</p>
+                        <p className="text-sm">100X</p>
                       </div>
                     </div>
-                    <p className="mt-3 text-sm">Creators keep 100% of their earnings. BLVCK covers platform infrastructure, payment processing, support, and marketing costs.</p>
+                    <p className="mt-3 text-sm">Creators keep 100% of their earnings. 100X covers platform infrastructure, payment processing, support, and marketing costs.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">8.6 Gross to Net Adjustments</h3>
@@ -599,7 +599,7 @@ export default function MonetizationPage() {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">8.7 Earnings Transparency</h3>
                     <p>Your Creator Dashboard displays real-time subscriber counts, daily and monthly unlock statistics, Active Subscriber calculations, estimated and confirmed earnings, and historical performance data.</p>
-                    <p className="mt-2">BLVCK&apos;s records are the authoritative source for all revenue calculations. You may request clarification through support@blvck.in.</p>
+                    <p className="mt-2">100X&apos;s records are the authoritative source for all revenue calculations. You may request clarification through support@100x.sbs.</p>
                   </div>
                 </div>
               </CardContent>
@@ -710,11 +710,11 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.4 Currency</h3>
-                    <p>Earnings are calculated in USD. Payouts are converted to your local currency at prevailing exchange rates determined at the time of payout processing. BLVCK does not guarantee specific exchange rates.</p>
+                    <p>Earnings are calculated in USD. Payouts are converted to your local currency at prevailing exchange rates determined at the time of payout processing. 100X does not guarantee specific exchange rates.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.5 Payment Fees</h3>
-                    <p>BLVCK covers standard payment processing fees. International wire transfer fees exceeding $15 USD may be deducted. Currency conversion spreads are included in the exchange rate. Your bank may charge receiving fees (your responsibility).</p>
+                    <p>100X covers standard payment processing fees. International wire transfer fees exceeding $15 USD may be deducted. Currency conversion spreads are included in the exchange rate. Your bank may charge receiving fees (your responsibility).</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.6 Failed Payments</h3>
@@ -722,7 +722,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">9.7 Payment Disputes</h3>
-                    <p>If you believe a payment is incorrect, contact support@blvck.in within 60 days, provide specific details of the discrepancy, and we will investigate and respond within 14 business days. Adjustments, if warranted, will be applied to subsequent payouts.</p>
+                    <p>If you believe a payment is incorrect, contact support@100x.sbs within 60 days, provide specific details of the discrepancy, and we will investigate and respond within 14 business days. Adjustments, if warranted, will be applied to subsequent payouts.</p>
                   </div>
                 </div>
               </CardContent>
@@ -739,7 +739,7 @@ export default function MonetizationPage() {
                   <div className="p-4 rounded-xl bg-warning/10 border border-warning/20">
                     <h3 className="font-semibold text-foreground mb-2">10.1 Your Responsibility</h3>
                     <p>You are solely responsible for understanding your tax obligations, reporting earnings to relevant tax authorities, paying all applicable income taxes, VAT/GST, and other taxes, and maintaining records for tax purposes.</p>
-                    <p className="mt-2 text-sm"><strong>BLVCK does not provide tax advice. Consult a qualified tax professional.</strong></p>
+                    <p className="mt-2 text-sm"><strong>100X does not provide tax advice. Consult a qualified tax professional.</strong></p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">10.2 Tax Information Collection</h3>
@@ -755,7 +755,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">10.3 Tax Withholding</h3>
-                    <p>BLVCK may withhold taxes as required by law:</p>
+                    <p>100X may withhold taxes as required by law:</p>
                     <p className="font-medium text-foreground mt-2">India:</p>
                     <ul className="list-disc pl-6 space-y-1">
                       <li>TDS (Tax Deducted at Source) at applicable rates</li>
@@ -769,7 +769,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">10.4 Tax Reporting</h3>
-                    <p>BLVCK provides annual earnings statements, TDS certificates (India), 1099-MISC or 1099-NEC (US, where applicable), and other reports as required by law. You can access tax documents in your Creator Dashboard.</p>
+                    <p>100X provides annual earnings statements, TDS certificates (India), 1099-MISC or 1099-NEC (US, where applicable), and other reports as required by law. You can access tax documents in your Creator Dashboard.</p>
                   </div>
                 </div>
               </CardContent>
@@ -785,7 +785,7 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">11.1 Platform Promotion</h3>
-                    <p>You grant BLVCK the right to feature your Channel in platform recommendations, include your content in &quot;trending&quot; or &quot;featured&quot; sections, use your Channel name and thumbnail in platform marketing, and create promotional previews of your content.</p>
+                    <p>You grant 100X the right to feature your Channel in platform recommendations, include your content in &quot;trending&quot; or &quot;featured&quot; sections, use your Channel name and thumbnail in platform marketing, and create promotional previews of your content.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">11.2 External Marketing</h3>
@@ -797,8 +797,8 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">11.4 Your Promotional Rights</h3>
-                    <p>You may promote your BLVCK Channel on your own social media and websites, using BLVCK branding according to our brand guidelines, and with accurate representation of the platform and your content.</p>
-                    <p className="mt-2">You may not make false claims about earnings or platform features, imply official endorsement by BLVCK, or use promotional tactics that violate platform rules.</p>
+                    <p>You may promote your 100X Channel on your own social media and websites, using 100X branding according to our brand guidelines, and with accurate representation of the platform and your content.</p>
+                    <p className="mt-2">You may not make false claims about earnings or platform features, imply official endorsement by 100X, or use promotional tactics that violate platform rules.</p>
                   </div>
                 </div>
               </CardContent>
@@ -837,7 +837,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">12.2 Ongoing Obligations</h3>
-                    <p>You agree to maintain accurate account and payment information, respond to BLVCK communications within 14 days, comply with content and conduct guidelines, report any unauthorized access to your account, and cooperate with investigations into potential violations.</p>
+                    <p>You agree to maintain accurate account and payment information, respond to 100X communications within 14 days, comply with content and conduct guidelines, report any unauthorized access to your account, and cooperate with investigations into potential violations.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">12.3 Compliance with Laws</h3>
@@ -911,14 +911,14 @@ export default function MonetizationPage() {
                       <li>Attempt to manipulate the recommendation algorithm</li>
                       <li>Circumvent monetization rules through multiple accounts</li>
                       <li>Engage in spam or excessive self-promotion</li>
-                      <li>Harass BLVCK staff or other creators</li>
+                      <li>Harass 100X staff or other creators</li>
                     </ul>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">13.4 Reporting Violations</h3>
                     <p>To report prohibited content or conduct:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
-                      <li>Email: abuse@blvck.in</li>
+                      <li>Email: abuse@100x.sbs</li>
                       <li>In-app reporting feature</li>
                       <li>Include specific details and evidence</li>
                     </ul>
@@ -937,7 +937,7 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">14.1 Monitoring</h3>
-                    <p>BLVCK monitors for fraudulent activity, including unusual unlock patterns, bot or automated activity, coordinated inauthentic behavior, geographic or temporal anomalies, and payment fraud indicators.</p>
+                    <p>100X monitors for fraudulent activity, including unusual unlock patterns, bot or automated activity, coordinated inauthentic behavior, geographic or temporal anomalies, and payment fraud indicators.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">14.2 Investigation</h3>
@@ -973,7 +973,7 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">15.1 Right to Modify</h3>
-                    <p>BLVCK may modify these Creator Terms, including eligibility requirements, revenue calculation methods, payment terms and thresholds, and RPAS rates.</p>
+                    <p>100X may modify these Creator Terms, including eligibility requirements, revenue calculation methods, payment terms and thresholds, and RPAS rates.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">15.2 Notice of Changes</h3>
@@ -1016,12 +1016,12 @@ export default function MonetizationPage() {
                 </h2>
                 <div className="text-muted-foreground space-y-4">
                   <div>
-                    <h3 className="font-semibold text-foreground mb-2">16.1 Suspension by BLVCK</h3>
+                    <h3 className="font-semibold text-foreground mb-2">16.1 Suspension by 100X</h3>
                     <p>We may suspend your monetization (temporarily disable earnings) for suspected Terms violations (pending investigation), suspected fraudulent activity, failure to maintain eligibility requirements, failure to provide required tax information, or at your request.</p>
                     <p className="mt-2"><strong className="text-foreground">Suspension Notice:</strong> We will notify you of suspension and reason. For suspected violations, you have 14 days to respond. Suspension may be lifted after investigation or correction.</p>
                   </div>
                   <div>
-                    <h3 className="font-semibold text-foreground mb-2">16.2 Termination by BLVCK</h3>
+                    <h3 className="font-semibold text-foreground mb-2">16.2 Termination by 100X</h3>
                     <p className="font-medium text-foreground">With 30 Days Notice:</p>
                     <ul className="list-disc pl-6 space-y-1">
                       <li>Failure to maintain eligibility after warning</li>
@@ -1043,7 +1043,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">16.3 Termination by You</h3>
-                    <p>You may terminate your participation at any time through Creator Dashboard settings or by emailing support@blvck.in. Effective upon confirmation.</p>
+                    <p>You may terminate your participation at any time through Creator Dashboard settings or by emailing support@100x.sbs. Effective upon confirmation.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">16.4 Effect on Channel</h3>
@@ -1069,7 +1069,7 @@ export default function MonetizationPage() {
                     <h3 className="font-semibold text-foreground mb-2">17.2 Filing an Appeal</h3>
                     <p>To appeal:</p>
                     <ul className="list-disc pl-6 space-y-1 mt-2">
-                      <li>Email: appeals@blvck.in</li>
+                      <li>Email: appeals@100x.sbs</li>
                       <li>Subject: &quot;Monetization Appeal - [Your Username]&quot;</li>
                       <li>Include: Your account information, decision being appealed, reason you believe the decision was incorrect, and any supporting evidence</li>
                     </ul>
@@ -1113,8 +1113,8 @@ export default function MonetizationPage() {
                     <ul className="list-disc pl-6 space-y-1">
                       <li>You receive any earned, unpaid amounts meeting payout threshold</li>
                       <li>Sub-threshold amounts are paid out within 90 days regardless of threshold</li>
-                      <li>Your content licenses to BLVCK terminate (subject to wind-down period)</li>
-                      <li>You may continue using BLVCK as a regular user</li>
+                      <li>Your content licenses to 100X terminate (subject to wind-down period)</li>
+                      <li>You may continue using 100X as a regular user</li>
                     </ul>
                   </div>
                   <div>
@@ -1166,7 +1166,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">19.4 No Authority to Bind</h3>
-                    <p>You have no authority to enter into contracts on behalf of BLVCK, make representations or warranties for BLVCK, or bind BLVCK to any obligations.</p>
+                    <p>You have no authority to enter into contracts on behalf of 100X, make representations or warranties for 100X, or bind 100X to any obligations.</p>
                   </div>
                 </div>
               </CardContent>
@@ -1182,15 +1182,15 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div className="p-4 rounded-xl bg-muted/50">
                     <h3 className="font-semibold text-foreground mb-2">20.1 Limitation</h3>
-                    <p className="uppercase text-sm">TO THE MAXIMUM EXTENT PERMITTED BY LAW, BLVCK&apos;S LIABILITY FOR MONETIZATION-RELATED CLAIMS IS LIMITED TO THE AMOUNT OF UNPAID EARNINGS IN YOUR ACCOUNT AT THE TIME OF THE CLAIM.</p>
+                    <p className="uppercase text-sm">TO THE MAXIMUM EXTENT PERMITTED BY LAW, 100X&apos;S LIABILITY FOR MONETIZATION-RELATED CLAIMS IS LIMITED TO THE AMOUNT OF UNPAID EARNINGS IN YOUR ACCOUNT AT THE TIME OF THE CLAIM.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">20.2 Exclusions</h3>
-                    <p className="uppercase text-sm">BLVCK IS NOT LIABLE FOR LOST PROFITS OR ANTICIPATED EARNINGS, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES, DAMAGES FROM ALGORITHM OR RATE CHANGES, THIRD-PARTY CLAIMS AGAINST YOU, OR LOSSES FROM YOUR VIOLATION OF THESE TERMS.</p>
+                    <p className="uppercase text-sm">100X IS NOT LIABLE FOR LOST PROFITS OR ANTICIPATED EARNINGS, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES, DAMAGES FROM ALGORITHM OR RATE CHANGES, THIRD-PARTY CLAIMS AGAINST YOU, OR LOSSES FROM YOUR VIOLATION OF THESE TERMS.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">20.3 Exceptions</h3>
-                    <p>These limitations do not apply to BLVCK&apos;s gross negligence or willful misconduct, amounts owed for legitimate earned revenue, or liabilities that cannot be limited by law.</p>
+                    <p>These limitations do not apply to 100X&apos;s gross negligence or willful misconduct, amounts owed for legitimate earned revenue, or liabilities that cannot be limited by law.</p>
                   </div>
                 </div>
               </CardContent>
@@ -1206,7 +1206,7 @@ export default function MonetizationPage() {
                 <div className="text-muted-foreground space-y-4">
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">21.1 Your Indemnification</h3>
-                    <p>You agree to indemnify and hold harmless BLVCK from claims arising from your Channel Content, your violation of these Creator Terms, your violation of any third party&apos;s rights, your tax obligations, and your representations to subscribers.</p>
+                    <p>You agree to indemnify and hold harmless 100X from claims arising from your Channel Content, your violation of these Creator Terms, your violation of any third party&apos;s rights, your tax obligations, and your representations to subscribers.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">21.2 Process</h3>
@@ -1238,7 +1238,7 @@ export default function MonetizationPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">22.4 Assignment</h3>
-                    <p>You may not assign your participation in the Monetization Program. BLVCK may assign these terms in connection with a business transfer.</p>
+                    <p>You may not assign your participation in the Monetization Program. 100X may assign these terms in connection with a business transfer.</p>
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">22.5 Governing Law</h3>
@@ -1259,19 +1259,19 @@ export default function MonetizationPage() {
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div className="p-4 rounded-xl bg-muted/50">
                       <h3 className="font-semibold text-foreground mb-2">Creator Support</h3>
-                      <p>Email: support@blvck.in</p>
+                      <p>Email: support@100x.sbs</p>
                     </div>
                     <div className="p-4 rounded-xl bg-muted/50">
                       <h3 className="font-semibold text-foreground mb-2">Appeals</h3>
-                      <p>Email: appeals@blvck.in</p>
+                      <p>Email: appeals@100x.sbs</p>
                     </div>
                     <div className="p-4 rounded-xl bg-muted/50">
                       <h3 className="font-semibold text-foreground mb-2">Tax and Payment Issues</h3>
-                      <p>Email: payout@blvck.in</p>
+                      <p>Email: payout@100x.sbs</p>
                     </div>
                     <div className="p-4 rounded-xl bg-muted/50">
                       <h3 className="font-semibold text-foreground mb-2">General Legal</h3>
-                      <p>Email: legal@blvck.in</p>
+                      <p>Email: legal@100x.sbs</p>
                     </div>
                   </div>
                 </div>
